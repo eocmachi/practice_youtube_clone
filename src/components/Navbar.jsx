@@ -5,9 +5,9 @@ import { useNavigate } from "react-router-dom";
 export default function Navbar() {
   const navigate = useNavigate();
   return (
-    <div className="fixed flex items-center w-full px-20 py-6 bg-white">
+    <div className="fixed flex items-center w-full px-[6.25rem] py-8 bg-white">
       <h1
-        className="w-48"
+        className="w-48 cursor-pointer"
         onClick={() => {
           navigate("/");
         }}

@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "cV0_n4HarV6KhA8ZLqkKmGz8Jho",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "xMF-xIeA9V-bVfkTEpdQnmk61s0",
+            "id": "UCYDmx2Sfpnaxg488yBpZIGg",
+            "snippet": {
+                "title": "starshipTV",
+                "description": "Welcome to  StarshipTV! \nSTARSHIP Entertainment  Official  YouTube Channel\n\n\nKPOP MUSIC",
+                "customUrl": "@starship_official",
+                "publishedAt": "2010-03-14T11:10:25Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO9D8WPXUZ0FziAnQ97D8eI21hfFJRgoH2BlAmerQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO9D8WPXUZ0FziAnQ97D8eI21hfFJRgoH2BlAmerQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AGIKgqO9D8WPXUZ0FziAnQ97D8eI21hfFJRgoH2BlAmerQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "starshipTV",
+                    "description": "Welcome to  StarshipTV! \nSTARSHIP Entertainment  Official  YouTube Channel\n\n\nKPOP MUSIC"
+                },
+                "country": "KR"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUYDmx2Sfpnaxg488yBpZIGg"
+                }
+            },
+            "statistics": {
+                "viewCount": "3894398092",
+                "subscriberCount": "5850000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2122"
+            }
+        }
+    ]
+}

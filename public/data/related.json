@@ -1,0 +1,1111 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "3mUhaCizLHo8rSCQ6_qsYIY7aec",
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 160,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v_LkAG-mAHN6X-9Jam9fOztr7mQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EDnwWcFpObo"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-20T00:53:35Z",
+                "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+                "title": "NMIXX \"Love Me Like This\" M/V",
+                "description": "NMIXX \"Love Me Like This\" M/V\n\nNMIXX 'expérgo' Stream Now ▶ https://orcd.co/expergo\nNMIXX 'expérgo' Buy Now ▶ https://biglink.to/expergo\n\nNMIXX Official YouTube ▶ https://www.youtube.com/c/NMIXXOfficial\nNMIXX Official Twitter ▶ https://twitter.com/NMIXX_official\nNMIXX Official Instagram ▶ https://www.instagram.com/nmixx_official/\nNMIXX Official Facebook ▶ https://www.facebook.com/NMIXXOfficial/\nNMIXX Official Weibo ▶ https://weibo.com/NMIXXOfficial\nNMIXX Official Website ▶ https://nmixx.jype.com/\nNMIXX Official Fan's ▶ https://fans.jype.com/nmixx\nNMIXX Official TikTok ▶ www.tiktok.com/@nmixx_official\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#NMIXX #엔믹스\n#expérgo\n#Love_Me_Like_This",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EDnwWcFpObo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EDnwWcFpObo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EDnwWcFpObo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EDnwWcFpObo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EDnwWcFpObo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JYP Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-20T00:53:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NcO5OF6BQ8Sc0-QnwNv9V3LGlTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rcqGjg_bqP4"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T07:16:55Z",
+                "channelId": "UCqq-ovGE01ErlXakPihhKDA",
+                "title": "제주도 수학여행 기념으로 우리끼리 인생네컷 찍었다 | IVE_I AM | 아이브 | 네컷라이브 | 4Cut Live",
+                "description": "제주도 수학여행 기념으로 우리끼리 인생네컷 찍었다 | IVE_I AM | 아이브 | 네컷라이브 | 4Cut Live\n\n#IVE#4CutLive#IAM#life4cut#ad#New1theKOriginal#1theK#원더케이#원더케이오리지널\n\n(Congrats) Life4Cut IVE Frame Now Available Overseas! (Congrats)\n\nWhen: from today to May 15\nWhere: at Life4Cut shops throughout the country / some overseas countries (refer to the original\nairing)\nI: will run to you\n\n📌Now meet the IVE's limited edition frame at Life four cuts In Vietnam, the Philippines, Thailand, Singapore, the United Kingdom, and Hong Kong. (14. April. ~ 15. May. 2023)\n\nK-POP Wonderland, 1theK\nK-POP의 모든 즐거움이 여기에,\n다양한 원더케이 오리지널 컨텐츠를 만나보세요!\n\nK-POP Wonderland, 1theK\nAll the joys of K-pop here!\n1theK has a wide variety of Original Content\n\n▶1theK YouTube https://www.youtube.com/1theK\n▶1theK Originals YouTube  https://www.youtube.com/1theKOriginals\n▶1theK Live YouTube https://www.youtube.com/@1theKLive\n▶1theK Facebook  http://www.facebook.com/1theK\n▶1theK Twitter https://twitter.com/1theK\n▶1theK TikTok  https://vt.tiktok.com/2mSMBS\n▶1theK Live Instagram https://www.instagram.com/1thek_live/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rcqGjg_bqP4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rcqGjg_bqP4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rcqGjg_bqP4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rcqGjg_bqP4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rcqGjg_bqP4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "1theK Originals - 원더케이 오리지널",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T07:16:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TzYHCdhfZBFZghKrM31EfzeEe48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bmaMMeiufFs"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T03:03:52Z",
+                "channelId": "UCRE-097LGtx_Zo7LrHvkycA",
+                "title": "[오늘의 지수] EP.1 JACKET BEHIND",
+                "description": "#JISOO #지수 #Todays_JISOO #오늘의지수 #JACKET #BEHIND #FIRSTSINGLEALBUM #ME #꽃 #FLOWER #AllEyesOnMe #행복지수 #BLACKPINK #블랙핑크",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bmaMMeiufFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bmaMMeiufFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bmaMMeiufFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bmaMMeiufFs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bmaMMeiufFs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "행복지수 103%",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T03:03:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EXh5hjNplgY7XCnKxylm6_G69oY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pG6iaOMV46I"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-27T06:43:22Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "IVE 아이브 'Kitsch' MV",
+                "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/ \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pG6iaOMV46I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pG6iaOMV46I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pG6iaOMV46I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pG6iaOMV46I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pG6iaOMV46I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-27T06:43:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qcs19vEtCm-ThwUJ1j1GWlsiOjc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8yyY9MeQNqk"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-08T11:34:11Z",
+                "channelId": "UCxmH1phphOlpczXkG8VjQmA",
+                "title": "IVE I AM (Short Ver.) Lyrics (아이브 I AM (Short Ver.) 가사) (Color Coded Lyrics)",
+                "description": "All Rights Administered by Starship Entertainment\n\n• Artist: IVE (아이브)\n• Song ♫: I AM (Short Ver.)\n• Album: I've IVE\n-----------------------------------------------------\n• No copyright infringement intended / Don't reupload\n\n#IVE #아이브 #I_AM #Ive_IVE\n\nIVE\nI AM\nIVE lyrics\nIVE I AM lyrics\nIVE I AM\nI AM lyrics\nI AM IVE lyrics\nI AM IVE\nI AM IVE\nIVE I AM mv\nIVE I AM live\nIVE I AM line distribution\nIVE I AM line\nIVE I AM color coded\nIVE I AM dance\nIVE I AM reaction\nIVE I AM concert\nIVE I AM fancam\nIVE I AM stage\nIVE I AM instrumental\nIVE I AM audio\nIVE I AM dance\nIVE I AM dance cover\nIVE I AM cover\nIVE I AM dance tutorial\nIVE I AM tutorial\nIVE I AM performance\nIVE I AM mirror\nIVE I AM remix\nIVE I AM inst\nIVE I AM loop\nIVE I AM 1 hour\nIVE I AM mr removed\nIVE I AM easy lyrics\nIVE I AM acapella\nIVE I AM male version\nIVE I AM demo\nIVE I AM karaoke\nIVE I AM piano\nIVE I AM nightcore\nIVE I AM slowed\nIVE I AM album\nIVE I AM full album\n아이브 \nI AM \n아이브 가사\n아이브 I AM 가사\n아이브 I AM \nI AM 가사 \nI AM 아이브 가사\nI AM 아이브 \nI AM 가사 아이브 \nIVE Blue Blood lyrics\nIVE I AM lyrics\nIVE Kitsch lyrics\nIVE Lips lyrics\nIVE Heroine lyrics\nIVE Mine lyrics\nIVE 섭찟 lyrics\nIVE Hypnosis lyrics\nIVE Not Your Girl lyrics\nIVE 궁금해 lyrics\nIVE Next Page lyrics\nIVE Cherish lyrics\nIVE Shine With Me lyrics",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8yyY9MeQNqk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8yyY9MeQNqk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8yyY9MeQNqk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8yyY9MeQNqk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8yyY9MeQNqk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Youngwoo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-08T11:34:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9xBpuW8sqN32W-BSw9sMr_0JtJM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3bnjH5jXxJc"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T04:47:53Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "이채연 (LEE CHAE YEON) - KNOCK MV",
+                "description": "이채연 (LEE CHAE YEON) - KNOCK MV\n\n‘차세대 퍼포먼스 퀸’ 이채연 두 번째 미니 앨범 ‘Over The Moon’ 발매\n독보적 케이팝 디바로 한 발짝 더 다가선 이채연의 화려한 도약!\n\n솔직 당당 ‘하이틴 워너비’로 변신한 이채연, 마음의 ‘문’ 제대로 ‘KNOCK’한다!\n한층 더 업그레이드된 ‘퍼포먼스 퀸’으로의 진일보, 당찬 목소리로 담은 자신감!\n\n\n이채연이 더욱 강렬해진 매력으로 K-POP 팬들의 심장을 다시 두드린다. \n\n여성 아티스트들의 활약이 연일 이어지고 있는 가요계에 ‘차세대 퍼포먼스 퀸’ 이채연이 또 한 번 당당하게 도전장을 내밀었다. 두 번째 미니 앨범 'Over The Moon'에는 하이틴 영화 속 누구나 닮고 싶어 했던 ‘워너비’로 변신한 이채연의 자신감 넘치는 목소리가 가득 담겨있다. \n\n프레시하고 풋풋한 모습의 모범생부터 자신감과 여유가 돋보이는 워너비까지, 상반되는 분위기의 하이틴 무드로 다채롭고 변화무쌍한 매력을 녹여냈다. 당당하게 자신의 마음을 고백하는 진취적인 모습을 통해 더욱더 당돌하고 솔직해진 이채연만의 컬러를 발견할 수 있다.\n\n타이틀곡 'KNOCK'은 마냥 기다리지 않고 내가 먼저 너의 마음을 두드리겠다는 이채연의 당찬 메시지를 남은 곡이다. 제목과 걸맞게 문을 두드리는 소리로 시작되어 반복되는 훅으로 중독성을, 에너제틱한 비트로 풍성함을 더해 듣는 이들의 귀를 사로잡는다. 특히 믿고 보는 댄스 실력으로 많은 사랑을 받아온 이채연이 자신 있게 선보이는 퍼포먼스까지 더해져 범접 불가 ‘퍼포 퀸’의 면모를 다시 한번 입증한다.\n\n이에 내가 하고 싶은 것들을 하나씩 적으며 상상해본다는 내용으로 이번 앨범의 시작을 알리는 ‘Intro : Line By Line’, 속도감 있는 비트와 개성 넘치는 보컬을 요즘 핫하게 떠오르는 Drift Phonk 장르로 풀어낸 ‘I Don’t Wanna Know’, ‘남들의 시선에 얽매이지 말고 바로 지금부터라도 자신답게 무언가 도전하길 바란다’는 응원의 메시지를 담은 디스코 풍의 팝 장르 곡 ‘Don’t Be A Jerk’, 이채연이 직접 작사에 참여하며 각별한 팬 사랑을 담아낸 ‘Like A Star’까지 총 5개의 트랙이 수록되어 있다.\n\n2023년 4월, 더욱 주체적인 목소리로 거침없이 무대를 장악하며 ‘독보적인 케이팝 디바’를 향해 한 발짝 더 다가설 이채연을 만날 수 있을 것이다. \n \n[Credit]\n\n1. Intro : Line By Line\nComposed by 서용배(RBW)\nLyrics by 서용배(RBW)\nArranged by 서용배(RBW)\n\n이번 앨범 ‘Over The Moon’의 시작을 알리는 ‘Line By Line’은 내가 하고 싶은 것들을 하나씩 적으며 상상해본다는 내용을 담은 곡이다. 산뜻한 이채연의 보이스와 밝은 트랙이 어우러져 곡의 분위기를 한껏 끌어올렸다. 사소한 목표가 지루하고 따분했던 일상을 힘차고 즐겁게 만드는 힘이 있듯, 듣기만 해도 기분 좋아지는 에너지를 전한다. \n\n\n2. KNOCK\nComposed by 서용배(RBW), 유주이(RBW)\nLyrics by 서용배(RBW), 유주이(RBW)\nArranged by 서용배(RBW)\n\n타이틀곡 ‘KNOCK’는 문을 두드리는 소리로 시작되어 반복되는 훅이 강한 중독성을 남기는 곡이다. ‘마냥 기다리지 않고 너의 마음을 두드리겠다’는 진취적인 메시지로 거침없이 자신의 목소리를 내는 이채연의 당돌함이 강렬한 임팩트를 남긴다. 독보적 케이팝 디바를 향한 이채연의 자신감 넘치는 포부와 함께, 귀를 사로잡는 에너제틱한 비트와 리드미컬한 보컬이 더해져 완성도를 높였다.\n\n\n3. I Don’t Wanna Know\nComposed by 서용배(RBW), 김민기\nLyrics by 서용배(RBW), 김민기\nArranged by 서용배(RBW), 김민기\n\n한 번쯤 상상해본 \"그래서 뭐? 알고 싶지 않아\"의 심정을 요즘 핫하게 떠오른 Drift Phonk 장르로 감각적이고 카리스마 넘치게 표현한 곡이다. 속도감 있게 진행되는 비트와 이채연만의 개성 넘치는 음색, 눈을 뗄 수 없는 파워풀한 퍼포먼스까지 더해져 보다 높은 몰입감을 선사한다.\n\n\n4. Don’t Be A Jerk\nComposed by 서용배(RBW), 이후상(RBW), 유주이(RBW)\nLyrics by 서용배(RBW), 이후상(RBW), 유주이(RBW)\nArranged by 서용배(RBW), 이후상(RBW)\n\n디스코 풍의 팝 장르의 ‘Don’t Be A Jerk’는 ‘남들의 시선에 얽매이지 말고 바로 지금부터라도 자신답게 무언가 도전하길 바란다’는 응원의 메시지를 담았다. 긍정적인 아우라가 물씬 풍기는 경쾌한 멜로디에 펼쳐지는 그루비하고 업라이트 한 이채연의 보컬을 즐길 수 있는 트랙이다.\n\n\n5. Like A Star\nComposed by Adam H. Evans(RBW), 진민호(RBW)\nLyrics by Adam H. Evans(RBW), 진민호(RBW), 이채연\nArranged by Adam H. Evans(RBW), 진민호(RBW), 강민훈\n\n이채연이 평소 잠이 오지 않을 때 다이어리에 적었던 메모들을 가사로 풀어낸 곡으로, 직접 작사에 참여해 의미를 더했다. ‘빛’을 사랑하는 채리쉬(CHAERISH)에 대입하여 ‘덕분에 하루하루 잘 보냈다’는 고마운 마음을 표현해, 팬들을 향한 애틋하고 각별한 사랑을 드러냈다. 특유의 포근한 목소리와 함께 감성적인 피아노 선율, 극적인 스트링으로 담아낸 따뜻한 감성이 인상적이다.\n\n\n#이채연 #LEE_CHAE_YEON #KNOCK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3bnjH5jXxJc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3bnjH5jXxJc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3bnjH5jXxJc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3bnjH5jXxJc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3bnjH5jXxJc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T04:47:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IKop9GC2IiFMIzPwTBRZV73chrQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FuF6gBiAJkE"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-05T03:23:01Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "[슈취타] EP.8 SUGA with 연준 & 태현",
+                "description": "#슈가와취하는타임 #슈취타 #SUGA #슈가 \n#연준 #태현 #투모로우바이투게더 \n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-05T03:23:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DJ6Baa9fRNVzcXEt27-Y7WiSWHM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bEZ6AdK5hes"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-10T13:33:11Z",
+                "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+                "title": "[BE ORIGINAL] Kep1er(케플러) 'Giddy' (4K)",
+                "description": "[BE ORIGINAL] Kep1er 'Giddy'\n[비 오리지널] 케플러 '기디'\n\n하루 온종일 귓가를 맴도는 Giddy👂\n(2:06) 상큼함 절정 찍은 케냥이들😻🐾\n\n#Kep1er #케플러 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bEZ6AdK5hes/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bEZ6AdK5hes/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bEZ6AdK5hes/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bEZ6AdK5hes/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bEZ6AdK5hes/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-10T13:33:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gckhNdSl1aZqY1fVFUvv5aI3D0U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6NVrpSHXPrk"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T08:29:29Z",
+                "channelId": "UCu976UrWTIh3-3c8WImzVFA",
+                "title": "아이브[IVE] 'I AM', MV 속 숨겨놓은 놀라운 비밀(ENG)",
+                "description": "※ English CC available!\n\n'I AM'으로 컴백한 아이브!\n하지만 화려한 'I AM' 뮤직비디오에는\n이전과 다르게 없는 것이 있다고 하는데요.\n'ELEVEN', 'LOVE DIVE', 'After LIKE'에는 있었지만\n'I AM'에는 없다는 그 것은 무엇인지!\n그리고 'Kitsch'와의 소름돋는 연결점까지!\n함께 알아볼까요?\n밝혀지지 않은 루머를 퍼트리는 댓글이나 \n무분별한 악성 댓글은 삭제될 수 있음을 알려드립니다.\n\nIVE is back with 'I AM'!\nBut apparently, in the fancy MV of 'I AM',\nthere are things that are no longer there, unlike the MVs for IVE's previous title songs.\nWhat are the things that are present in 'ELEVEN', 'LOVE DIVE', and 'After LIKE',\nbut not present in 'I AM'?\nAnd what are the fascinating connections between 'I AM' and 'Kitsch'?\nLet's find out!\nPlease note that we may delete any comments underneath this video\nthat are spreading unconfirmed rumors or being imprudently malicious.\n\n#아이브 #ive #iam\n\n\n\n여러분의 소중한 굿즈를 두유람 시청자들에게 마음껏 자랑할수 있는 기회!\n응원봉, 싸인 CD, 포카, 아이돌 인형, 편지 등등 뭐든지 좋습니다!\n자랑하고 싶은 굿즈를 사진과 영상에 담아 아래 양식에 맞추어 이메일로 보내주세요!\n\n1. 굿즈/아이템 이름\n2. 굿즈/아이템 가격( 가격은 원하시는 분만 )\n3. 굿즈/아이템에 관련된 사연\n\n이메일 주소 : doyouramgoods@gmail.com\n\n\nIt's your chance to show off your precious merch to Doyouram viewers all you want!\nYou are welcome to show off anything!\nA lightstick, signed CD, photo card, idol doll, letter, or whatever else you want!\nPlease email us photos or videos of your merch / items with the following information included!\n\n1. Name of your merch / item\n2. Price of your merch / item (only if you're comfortable revealing it)\n3. Backstories regarding your merch / item\n\nEmail us at : doyouramgoods@gmail.com\n\n\n\n● 루머/억까를 제보하려면? 아래 링크를 활용해주세요!\nhttps://forms.gle/L9gc2bk8Fkiy9u8QA\n\n● 루머/억까 해명 영상이 아닌 기타 영상을 요청하실때는 아래 링크를 활용해주세요!\nhttps://forms.gle/5zPwMGF3ypfPB9TQ9\n\n위 양식대로 요청을 해주시면 저희가 자세히 검토해보도록 하겠습니다!\n단, 수많은 영상 요청들과 부족한 반박자료 등의 원인으로 인해 영상 제작이 힘들어질수도 있다는 점 양해 부탁드립니다.\n\n\n● Click the link below to report absurd rumors/criticisms about a certain idol!\nhttps://forms.gle/L9gc2bk8Fkiy9u8QA\n\n● Click the link below to request other videos, besides videos that clear up rumors/allegations!\nhttps://forms.gle/5zPwMGF3ypfPB9TQ9\n\nWe will thoroughly go over the requests that you submit through the links above!\nHowever, please understand that due to too many requests or lack of information,\nwe might not be able to make videos on all the requested topics!\n\n\n💖 두유람에서 또 보고 싶은 아이돌이나 Kpop 소식이 있으면\ndoyouramforyou@gmail.com 으로 메일 보내주세요!\nIf there is any idol or any Kpop news you want to know more about,\nemail us at doyouramforyou@gmail.com!\n\n[Link to Doyouram's New Chatroom (Discord)]\n● https://discord.gg/7s35vTy7WM    \n- Follow this link to join the chatroom. You can give us feedback on our videos and hang out with Kpop fans all around the world!\n\n[두유람 오픈채팅방 링크 (카카오톡)]\n● https://open.kakao.com/o/gKQsEakc    \n- 두유람 오픈채팅방에서 전세계 Kpop 팬들과 함께 영상에 대한 피드백을 자유롭게 남겨주세요!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6NVrpSHXPrk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6NVrpSHXPrk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6NVrpSHXPrk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6NVrpSHXPrk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6NVrpSHXPrk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Doyouram - Everyday K-Culture",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T08:29:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hAxIckylErks_cVEweVDrkEEy2g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uVD-YgzDzyY"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-06T16:43:26Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "Agust D '사람 Pt.2 (feat. 아이유)' Official MV",
+                "description": "Agust D '사람 Pt.2 (feat. 아이유)' Official MV\n\n'D-DAY' Release\n📆 4/21 1PM KST | 0AM ET\n💽  Pre-order & pre-save 'D-DAY': https://ingrv.es/d-day\n\nCredits:  \n[MOTHER]\nExecutive Producer: Katt Kim\nHead of Studio: Kyuwon Seo\nProduction Coordinator: Kaly Ngo\nCreative & Production: Minju Kim\n\nDirector: Woogie Kim\nAssistant Director: Yurok Jang\nDirecting Dept: Sungjoo Han\nCreative & Production Assistant: Sarah El-Ali\n\nDirector Of Photography: Hyunwoo Nam\n1st AC: Jaewoong Park\n2nd AC: Youngseo Park\n3rd AC: Sangpil Kim\nDIT: Hyunji Kim\n\nGaffer: Jeonghwan Heo - Gwang Light \nLighting 1st: Ho-Ik Cho\nLighting Team: Soowon Son, Jaewon Park, Yunsik Kim, Mingoo Kang, Seonghyun Min\nElectric: Gyeongnam Bae\n\nLocation Manager: Sepil Jang, Jimin Son\n\nArt Dept Director: Bona Kim, Jinsil Park - MU:E\nArt Dept Producer: Il-ho Heo\nArt Dept Team: Minjeong Kim, Ayoung Choi, Se-ryeong Kim \n\nFloral Design Artist: Hai Ihwa\nFloral Design Dept: Yuna Jang, Heesoo Choi, Jeonghoon Nam \n\nColor Grading - COLORGRAF\nColorist: Suyeong Kim\nColorist Assistant: Youjeong Cheon\n\n2D Compositing: Arang Kwon\n\nProduction Team Leader: Dongwan Heo - The Runner \nProduction Team: Yonghyun Yoo, Seulki Hong, Jonghoon Shim, Gibeop Nam, Jinho Seo, Seonghyeok Kwon \n\nSecurity Team Leader: Shiho Yoo\nSecurity Team: Iksoo Kim, Junha Jeon, Jinho Lee \n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers\nhttp://btsblog.ibighit.com\n\n\n#SUGA #슈가 #AgustD #D_DAY #사람_Pt2",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uVD-YgzDzyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uVD-YgzDzyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uVD-YgzDzyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uVD-YgzDzyY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uVD-YgzDzyY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-06T16:43:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DbrPDNbsmSdEzuIaQ1kKWIzCWjA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "211aaP1-_aw"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T08:26:43Z",
+                "channelId": "UC_hB_xjVTZZ1s8__Tus0jQA",
+                "title": "[드림노트] 'Lemonade' Official M/V",
+                "description": "[DreamNote Official Channel] \n\nDreamNote Twitter : https://twitter.com/iMe_Dreamnote\nDreamNote Facebook : https://www.facebook.com/iMeDreamnote.official\nDreamNote Instagram : https://www.instagram.com/ime_dreamnote\nDreamNote V Live : https://channels.vlive.tv/C5C72D/video\n\n[iMe KOREA Official Channel]\n\niMe KOREA Homepage : http://www.ime.kr\niMe KOREA Youtube : https://www.youtube.com/c/imekoreaofficial\niMe KOREA Twitter : http://www.twitter.com/imekr_official\niMe KOREA Facebook : https://www.facebook.com/imekorea.official\niMe KOREA Instagram : http://www.instagram.com/imekorea_official\niMe KOREA Post : http://post.naver.com/imekorea_info\n\n#드림노트 #DreamNote #ドリームノート\n#유아이 #보니 #라라 #미소 #수민 #은조\n#YOUI #BoNi #Lara #MISO #Sumin #Eunjo\n\nⓒ 2023 iMe KOREA. All Rights Reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/211aaP1-_aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/211aaP1-_aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/211aaP1-_aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/211aaP1-_aw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/211aaP1-_aw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DreamNote 드림노트 Official Youtube Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T08:26:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y0ztwJJxxAMZ9jqg_0jX1-dtbyk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NphkjmrNcSI"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T07:07:49Z",
+                "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+                "title": "IVE 아이브 'I AM' 응원법 (Cheering Guide)",
+                "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NphkjmrNcSI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NphkjmrNcSI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NphkjmrNcSI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NphkjmrNcSI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NphkjmrNcSI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IVE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T07:07:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rut_HL6n75IRS1UsijWFgu7CN2c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j-GktYWOXeM"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T05:59:49Z",
+                "channelId": "UCRuSxVu4iqTK5kCh90ntAgA",
+                "title": "여의도 벚꽃 축제 특",
+                "description": "생각보다 벚꽃이 빨리 져서\n벚꽃없는 벚꽃축제가 되어버렸네요..! \n오늘도 시청해주셔서 감사드립니다♥\n\n[총몇명 스튜디오]\n총감독 : 총몇명 / 부감독: 지웅지웅 / 제작진행 : 지카모토 / 스토리보드 : 채유 / 작화 : 말랭 / 편집 : 두빗, 스노유진 / 배경 : 지서클 / 기획 : 총몇명, 센, Belli / 사운드 : 총몇명, 세인러문, 오마카세\n\nBGM ♬\nhttps://www.youtube.com/watch?v=UtQS1lFxeMs (뉴진스 Ditto piano cover)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j-GktYWOXeM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j-GktYWOXeM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j-GktYWOXeM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j-GktYWOXeM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j-GktYWOXeM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "총몇명",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T05:59:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3pP-keIR79TIvpNSca2jQyBSBRg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NdY7dFroG6U"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-05T08:41:19Z",
+                "channelId": "UCkcaRxpTcisadUeCbHOYTFw",
+                "title": "드디어 피죤투와 재회한 지우! 드디어 밝혀진 포켓몬마스터의 진정한 의미! 지우의 마지막 포켓몬 여행 총정리 - [전자오랏맨]",
+                "description": "이번 영상에서는 지우의 마지막 여행에 대해 알아봤습니다.\n\n전자오랏맨 인스타\nhttps://www.instagram.com/pck4710/\n\n전자오랏맨 이메일\npck4710@naver.com\n\n전자오랏맨 카페\nhttps://cafe.naver.com/oratman\n\n채널에 가입하여 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCkcaRxpTcisadUeCbHOYTFw/join",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NdY7dFroG6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NdY7dFroG6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NdY7dFroG6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NdY7dFroG6U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NdY7dFroG6U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "전자오랏맨",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-05T08:41:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GE_TYGcqY_FHJJ_jZtPZi3S-ze8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fypo_bXOu6g"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T07:42:41Z",
+                "channelId": "UCpmfh1rT8g_2eiExfhvEgQQ",
+                "title": "[SUB] 낙지 한상에 소주 없으면 UNFORGIVEN 사쿠라 소원 성취 타임 (with 홍석천&권진아)🐙 [겁도 없꾸라] EP.20",
+                "description": "#sakura #겁도없꾸라 #홍석천 #권진아\n\n우당탕탕 낙지탕탕이 2탄!\n낙지요리 만들기에 도전한 꾸라💓\n\n겁쟁이들~ 꾸라랑 같이 낙지 먹고 갈래?\n\n강철 아이돌이 되기 위한 겁상실 프로젝트\n[겁도 없꾸라] ✨매주 수요일 18시✨\n\n제작 / tvN\n\n-----\n\n#진로소주 #진로제로슈거\n\n한정판 핑크 에디션 출시! 진로 제로 슈거가 궁금하다면?💕\n👉 https://www.instagram.com/official.jinro/\n\n※경고: 지나친 음주는 뇌졸중, 기억력 손상이나 치매를 유발합니다. 임신 중 음주는 기형아 출생 위험을 높입니다.※",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fypo_bXOu6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fypo_bXOu6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fypo_bXOu6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fypo_bXOu6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fypo_bXOu6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "겁도 없꾸라",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T07:42:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cb9JeUAJsSwh08VlhJfhgGmZF3E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t5gailJ3XyU"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-19T05:19:22Z",
+                "channelId": "UCnUAyD4t2LkvW68YrDh7fDg",
+                "title": "[PICK NMIXX] JYP COVER LIVE",
+                "description": "[PICK NMIXX] JYP COVER LIVE\n\nNMIXX Official YouTube ▶ https://www.youtube.com/c/NMIXXOfficial\nNMIXX Official Twitter ▶ https://twitter.com/NMIXX_official\nNMIXX Official Instagram ▶ https://www.instagram.com/nmixx_official/\nNMIXX Official Facebook ▶ https://www.facebook.com/NMIXXOfficial/\nNMIXX Official Weibo ▶ https://weibo.com/NMIXXOfficial\nNMIXX Official Website ▶ https://nmixx.jype.com/\nNMIXX Official Fan's ▶ https://fans.jype.com/nmixx\nNMIXX Official V LIVE ▶ https://www.vlive.tv/channel/81BFAF\nNMIXX Official TikTok ▶ www.tiktok.com/@nmixx_official\n\nⓒ 2022 JYP Entertainment. All Rights Reserved\n\n#NMIXX #엔믹스\n#PICK_NMIXX",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t5gailJ3XyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t5gailJ3XyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t5gailJ3XyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t5gailJ3XyU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t5gailJ3XyU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NMIXX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-19T05:19:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IKZBRU9nCZsSBCgbWOu1mTYF0CM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QHN6tWOngOc"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T01:10:02Z",
+                "channelId": "UCVut4hqvrjQC4qDE3oc5qig",
+                "title": "𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 4월 최신 여돌 신곡 내가 싹다 모아왔어! 2023 상반기 걸그룹 노래모음 kpop playlist",
+                "description": "#playlist  #여돌 #여돌플리 #플레이리스트 \n#아이브 #뉴진스 #ditto #NewJeans #르세라핌\n#여돌플레이리스트 #kpop #신곡모음 #음악추천",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QHN6tWOngOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QHN6tWOngOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QHN6tWOngOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QHN6tWOngOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QHN6tWOngOc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "때껄룩ᴛᴀᴋᴇ ᴀ ʟᴏᴏᴋ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T01:10:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ePwYtReAJdC_gum5FhZdfqxk7Zk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_EEo-iE5u_A"
+            },
+            "snippet": {
+                "publishedAt": "2021-06-27T02:13:53Z",
+                "channelId": "UCOJplhB0wGQWv9OuRmMT-4g",
+                "title": "[MV] 이달의 소녀 (LOONA) \"PTT (Paint The Town)\"",
+                "description": "[MV] 이달의 소녀 (LOONA) \"PTT (Paint The Town)\"\n\nLOONA [&]\n\nLOONA became one after going through the round of faith, coincidence, and destiny. \n\nLOONA has shown the effect of plus plus so far, gaining courage with the butterfly effect and finding their inner self. What’s more, is that LOONA created a bigger wave of change with their passion to make a world where not even a single girl is oppressed. \n\n[&] album is about why LOONA had no choice but to break the fixed rules and become one with all LOOΠΔs around the world, after making bigger waves of change.\nLOONA holds a variety of symbolic objects that symbolize their dignity. Among those, the symbolic color has a significant connection with the message that LOONA wishes to convey through this album.\n\n“And all LOOΠΔs are one”, all LOONAs in the world paint the world with their own colors and conveys the message that they will shout out “Paint The Town” in one voice after they found their own colors.\n\nFinally conquering the LOONAverse with their own strengths, LOONA then discovers a bigger world that they have never known about.\n\nThe intro ‘&’ holds a story about you, me, and us together (&) becoming one after breaking the fixed, conventional symbols.\n\nThe title track 'PTT (Paint The Town)' is a hip-hop dance genre with the most intense and explosive energy of LOONA that they have released so far. \n\n‘PTT (Paint The Town)' combines all the essential elements from chart-topping Bollywood songs, with a massive Indian drums and tablas combined with aggressive dubstep and 808 bass sounds, a hypnotic Indian flute playing the signature melody of the song and a massive chorus. The minimalist verses and building prechorus parts all lead to haunting chorus parts with a melody line you will never get out of your head.\n\nThis title track aims to establish and redefine themselves after breaking the rules without being trapped in taboos or being wary of others to \"Paint The Town\" in LOONA’s colors.\n \n‘WOW’ is a song with a bouncy, up-tempo and infectious beat. LOONA celebrates with the world all the women out there and encourages every girl to be strong and confident through this empowering song.\n\n'Be Honest' is a refreshing song with an upbeat tempo, telling you to be confident about your feelings and be honest just like the name of the song. \n\n‘Dance On My Own’ is an emotional but high-paced energetic song that mixes the organic strums of affected acoustic guitar with hip hop drums. This song will both make you feel things as much as it will make you want to dance.\n\n‘Different Night’ is a story of the girls who spend different nights at the same time. It’s an emotional ballad song with a signature melody of a dreamy and sentimental pad and pluck sound.\n\nThe last track ‘U R’ is a Lofi R&B song with a sentimental piano and gentle electric guitar combined with LOONA’s voice. It’s about expressing love to the loved one who approached you like a heart-warming star and shined upon you.\n\nAfter being one, a hero comes into the world by LOONA.\n\n#이달의소녀 #LOONA #AND #BlockBerryCreative\n\nLOOΠΔ Official : http://www.loonatheworld.com\nLOOΠΔ Instagram : https://www.instagram.com/loonatheworld/\nLOOΠΔ Twitter : https://twitter.com/loonatheworld\nLOOΠΔ Facebook : https://www.facebook.com/loonatheworld/\nLOOΠΔ Official Korean Fan Cafe : http://cafe.daum.net/loonatheworld\n\nCopyrights 2021 ⓒ BlockBerryCreative. All Rights Reserved.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_EEo-iE5u_A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_EEo-iE5u_A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_EEo-iE5u_A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_EEo-iE5u_A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_EEo-iE5u_A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "loonatheworld",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-06-27T02:13:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nWS2RIETAlH0CefhyjXumrsCxuA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iTgcp1oDk2M"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-14T07:23:42Z",
+                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                "title": "Red Velvet X aespa 'Beautiful Christmas' MV",
+                "description": "SMTOWN's \"2022 Winter SMTOWN : SMCU PALACE\" is out!\nListen and download on your favorite platform: http://SMTOWN.lnk.to/SMCU_PALACE\n\n💗Free Online Concert💗\nSMTOWN LIVE 2023 : SMCU PALACE @KWANGYA will be live-streamed on January 1st, 2023 (KST).\n\n🏰 'Hot & Cold (온도차)' Stage Video https://youtu.be/lOX73kBRyWs\n\n[Tracklist]\n01 Welcome To SMCU PALACE\n02 The Cure\n03 Hot & Cold (온도차)\n04 Beautiful Christmas\n05 Jet \n06 Priority\n07 원 (Time After Time)\n08 넌 어디에 (Where You Are)\n09 Happier\n10 Good To Be Alive\n\nRed Velvet Official\nhttps://www.youtube.com/redvelvet\nhttps://www.facebook.com/RedVelvet\nhttps://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet_smtown\nhttps://twitter.com/RVsmtown\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\nSMTOWN Official\nhttps://www.youtube.com/smtown\nhttps://www.facebook.com/smtown\nhttps://www.instagram.com/smtown\nhttps://twitter.com/SMTOWNGLOBAL\nhttps://www.tiktok.com/@smtown_official\n\n#RedVelvet #aespa #BeautifulChristmas\n#2022_WINTER_SMTOWN #SMCU_PALACE\nRed Velvet X aespa 'Beautiful Christmas' MV ℗ SM Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iTgcp1oDk2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iTgcp1oDk2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iTgcp1oDk2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iTgcp1oDk2M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iTgcp1oDk2M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SMTOWN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-14T07:23:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A_j1cg88aF-k5qNzzS5LqekW5ds",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Am2NBfQ3I2g"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T13:56:33Z",
+                "channelId": "UCqwUnggBBct-AY2lAdI88jQ",
+                "title": "BABYMONSTER - 'Last Evaluation' Behind The Scenes #4",
+                "description": "#BABYMONSTER #베이비몬스터 #LastEvaluation #BehindTheScenes #YG_NEW_GROUP #YG\n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@officialBABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Am2NBfQ3I2g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Am2NBfQ3I2g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Am2NBfQ3I2g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Am2NBfQ3I2g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Am2NBfQ3I2g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BABYMONSTER",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T13:56:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O4WPXw_rJ2Gp8mCgAt3QoTOWTvk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3sCZKrxCWMo"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-12T03:47:34Z",
+                "channelId": "UCVVFt4q2WczlzhOr4V2kYxA",
+                "title": "(MV)LEE CHAE YEON(이채연)_KNOCK",
+                "description": "LEE CHAE YEON(이채연) 2nd Mini Album \"Over The Moon\" has been released.\n:: iTunes & Spotify  : https://apple.co/41jJ2zN\n                                    https://spoti.fi/3mu1neG\n*ALBUM EVENT(4/11~4/13): https://me2.kr/GkVEX\n\n\n#LEECHAEYEON #이채연 #OverTheMoon #KNOCK #이제깨어KNOCK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3sCZKrxCWMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3sCZKrxCWMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3sCZKrxCWMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3sCZKrxCWMo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3sCZKrxCWMo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LEE CHAE YEON",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-12T03:47:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AJIfY6jTQLCGWyNFGEm9f_bjtgs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5eh6Vj_vVg4"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-12T05:19:50Z",
+                "channelId": "UCaO6TYtlC8U5ttz62hTrZgg",
+                "title": "NMIXX \"Young, Dumb, Stupid\" M/V",
+                "description": "NMIXX \"Young, Dumb, Stupid\" M/V\n\nNMIXX 'expérgo' Pre-order ▶ https://biglink.to/expergo\nNMIXX 'expérgo' Pre-save ▶ https://radi.al/expergounlock\n\nNMIXX Official YouTube ▶ https://www.youtube.com/c/NMIXXOfficial\nNMIXX Official Twitter ▶ https://twitter.com/NMIXX_official\nNMIXX Official Instagram ▶ https://www.instagram.com/nmixx_official/\nNMIXX Official Facebook ▶ https://www.facebook.com/NMIXXOfficial/\nNMIXX Official Weibo ▶ https://weibo.com/NMIXXOfficial\nNMIXX Official Website ▶ https://nmixx.jype.com/\nNMIXX Official Fan's ▶ https://fans.jype.com/nmixx\nNMIXX Official TikTok ▶ www.tiktok.com/@nmixx_official\n\nⓒ 2023 JYP Entertainment. All Rights Reserved\n\n#NMIXX #엔믹스\n#expérgo\n#Young_Dumb_Stupid",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5eh6Vj_vVg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5eh6Vj_vVg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5eh6Vj_vVg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5eh6Vj_vVg4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5eh6Vj_vVg4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JYP Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-12T05:19:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X6bMp5kN_sA4NAFELgPHevM6UA4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pSUydWEqKwE"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-16T01:33:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) 'Ditto' Official MV (side A)",
+                "description": "Producer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter\n#ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-16T01:33:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RF-CyjwcRdEzhS3tRYukbd2ql4Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2zXg8CbymYc"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-09T03:11:36Z",
+                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+                "title": "MONSTA X 몬스타엑스 'Beautiful Liar' MV",
+                "description": "▶More information\nMONSTA X Official Fan cafe : http://cafe.daum.net/monsta-x\nMONSTA X Official Twitter : http://www.twitter.com/OfficialMonstaX\nMONSTA X Official Facebook : http://www.facebook.com/OfficialMonstaX\nMONSTA X Official Instagram : https://www.instagram.com/official_monsta_x\nMONSTA X Official Weibo : http://www.weibo.com/monstax\n\n#MONSTAX #몬스타엑스 #MONBEBE #REASON",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2zXg8CbymYc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2zXg8CbymYc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2zXg8CbymYc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2zXg8CbymYc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2zXg8CbymYc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "starshipTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-09T03:11:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xlkdmX5sMpWcgZMkozw32lQ3Gc0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ccDwhkO79Es"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-11T03:43:34Z",
+                "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+                "title": "(Teaser) [BE ORIGINAL] IVE(아이브) 'I AM' (4K)",
+                "description": "[BE ORIGINAL] IVE 'I AM' (Teaser)\n[비 오리지널] 아이브 '아이 엠' (티저)\n\nI HAVE IVE✨ 드디어 왔잖아 아이브😎 \nBE ORIGINAL 'IVE' COMING SOON\n\n#IVE #아이브 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-11T03:43:34Z"
+            }
+        }
+    ]
+}

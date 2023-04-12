@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "8cqut9pI_lsuLh3HtHooYUaD7Vo",
+    "etag": "vG-ZhCu7q3n_4wmdKrXYidG0K18",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "Vhcx884VNY9Cdud2uwZHy7Jbaec",
+            "etag": "tqv1N5bum5kOBKLqp9fgkOHGt1g",
             "id": "6ZUIwj3FgUY",
             "snippet": {
                 "publishedAt": "2023-04-10T09:00:10Z",
@@ -112,11 +112,261 @@
                     "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M5S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "22904625",
+                "likeCount": "759936",
+                "favoriteCount": "0",
+                "commentCount": "52038"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ze1riplnNudsKqqoHlvoMvzfK-Y",
+            "etag": "GEDREan4R2Uu-xKeRtt6EZ0o9Ls",
+            "id": "ZfOXJJN7nNk",
+            "snippet": {
+                "publishedAt": "2023-04-11T09:00:12Z",
+                "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+                "title": "[EN/JP] 편한 동생들은 핑계고",
+                "description": "동네에 편한 동생들을 초대해봤습니다.\n오랜만에 만나서 요즘 뭐하고 지내는지 정말 궁금했는데...\n\n사실 다~~ 핑계고🐓\n슈가랑 지민이도 그냥 떠들어제끼는 거 좋아한다네요?\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #조세호 #BTS #슈가 #지민\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZfOXJJN7nNk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "뜬뜬 DdeunDdeun",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[EN/JP] 편한 동생들은 핑계고",
+                    "description": "동네에 편한 동생들을 초대해봤습니다.\n오랜만에 만나서 요즘 뭐하고 지내는지 정말 궁금했는데...\n\n사실 다~~ 핑계고🐓\n슈가랑 지민이도 그냥 떠들어제끼는 거 좋아한다네요?\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #조세호 #BTS #슈가 #지민\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT48M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2278766",
+                "likeCount": "119052",
+                "favoriteCount": "0",
+                "commentCount": "5444"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ypoEmn6p34ibJecqIQ0H0efxJGk",
+            "id": "EwRYMdFxBDQ",
+            "snippet": {
+                "publishedAt": "2023-04-11T09:00:08Z",
+                "channelId": "UCYtjW8dGkaeHwrMiB01Xa_Q",
+                "title": "이들이 할 수 있는 연애라고는 ‘상상 연애‘뿐입니다. | 조밥 곽선생 EP.1",
+                "description": "자세히 보아야 예쁘다.\n오래 보아야 사랑스럽다.\nJB들도.. 그랬으면 좋겠다…😿\n\nJB 연애 토론회 《조밥 곽선생》\n매주 화요일 오후 6시 스튜디오 와플 공개!\n👉 https://www.youtube.com/c/스튜디오와플STUDIOWAFFLE\n\n🧇구독 & 좋아요 & 알림설정 필수🧇\n\n#조밥곽선생 #곽튜브 #박원빈 #이희수 #논리왕전기 #연애 #토론",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EwRYMdFxBDQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "스튜디오 와플 - STUDIO WAFFLE",
+                "tags": [
+                    "바퀴달린입",
+                    "이용진",
+                    "뱃사공",
+                    "풍자",
+                    "곽튜브",
+                    "곽준빈",
+                    "김진우",
+                    "윤보미",
+                    "토론회",
+                    "토론",
+                    "MSCR_OR_NS",
+                    "아가리",
+                    "아가리 파이터",
+                    "터키즈",
+                    "터키즈 제작진",
+                    "터키즈 레전드",
+                    "MZ세대",
+                    "양배추",
+                    "환승연애",
+                    "조밥",
+                    "JB"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "이들이 할 수 있는 연애라고는 ‘상상 연애‘뿐입니다. | 조밥 곽선생 EP.1",
+                    "description": "자세히 보아야 예쁘다.\n오래 보아야 사랑스럽다.\nJB들도.. 그랬으면 좋겠다…😿\n\nJB 연애 토론회 《조밥 곽선생》\n매주 화요일 오후 6시 스튜디오 와플 공개!\n👉 https://www.youtube.com/c/스튜디오와플STUDIOWAFFLE\n\n🧇구독 & 좋아요 & 알림설정 필수🧇\n\n#조밥곽선생 #곽튜브 #박원빈 #이희수 #논리왕전기 #연애 #토론"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT24M1S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "638066",
+                "likeCount": "13925",
+                "favoriteCount": "0",
+                "commentCount": "1841"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7YQ3ffky4DnbqadnrHHQygbfzKk",
+            "id": "tJGunpmi2wo",
+            "snippet": {
+                "publishedAt": "2023-04-11T09:00:11Z",
+                "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+                "title": "에이핑크(Apink)의 킬링보이스를 라이브로 – Mr. Chu, NoNoNo, 1도 없어, D N D, LUV, 덤더럼, 몰라요, Remember, U You | 딩고뮤직",
+                "description": "청량함을 가득 담아 ‘D N D’로 돌아온 에이핑크💖\n\n[선곡리스트]\n00:00 오프닝\n01:03 몰라요\n02:19 My My \n03:27 4월 19일\n04:41 U You\n06:25 NoNoNo\n07:58 Mr. Chu\n09:27 LUV\n10:32 Remember\n11:56 네가 손짓해주면\n13:37 내가 설렐 수 있게\n14:55 1도 없어\n16:20 덤더럼(Dumhdurum)\n17:50 D N D 🆕\n\n\n▶딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music\n▶딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#에이핑크 #Apink #DND #SELF \n#박초롱 #윤보미 #정은지 #김남주 #오하영\n#킬링보이스 #KillingVoice #딩고뮤직 #DingoMusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tJGunpmi2wo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tJGunpmi2wo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tJGunpmi2wo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tJGunpmi2wo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tJGunpmi2wo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "딩고 뮤직 / dingo music",
+                "tags": [
+                    "딩고뮤직",
+                    "dingo",
+                    "dingomusic",
+                    "music",
+                    "kpop",
+                    "live",
+                    "멜론",
+                    "세로라이브",
+                    "최신가요",
+                    "top100",
+                    "아이돌",
+                    "라이브",
+                    "음악",
+                    "딩고",
+                    "킬링보이스",
+                    "KillingVoice",
+                    "에이핑크",
+                    "박초롱",
+                    "윤보미",
+                    "정은지",
+                    "김남주",
+                    "오하영",
+                    "Apink",
+                    "DND",
+                    "1도없어"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "에이핑크(Apink)의 킬링보이스를 라이브로 – Mr. Chu, NoNoNo, 1도 없어, D N D, LUV, 덤더럼, 몰라요, Remember, U You | 딩고뮤직",
+                    "description": "청량함을 가득 담아 ‘D N D’로 돌아온 에이핑크💖\n\n[선곡리스트]\n00:00 오프닝\n01:03 몰라요\n02:19 My My \n03:27 4월 19일\n04:41 U You\n06:25 NoNoNo\n07:58 Mr. Chu\n09:27 LUV\n10:32 Remember\n11:56 네가 손짓해주면\n13:37 내가 설렐 수 있게\n14:55 1도 없어\n16:20 덤더럼(Dumhdurum)\n17:50 D N D 🆕\n\n\n▶딩고뮤직 (Dingo Music) : http://bit.ly/Dingo__Music\n▶딩고프리스타일 (Dingo Freestyle) : http://bit.ly/Dingo__Freestyle\n▶일소라 (일반인들의 소름돋는 라이브) : http://bit.ly/ilsora\n\ncontact : musicbiz@makeus.com\n\n#에이핑크 #Apink #DND #SELF \n#박초롱 #윤보미 #정은지 #김남주 #오하영\n#킬링보이스 #KillingVoice #딩고뮤직 #DingoMusic"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT20M30S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "702933",
+                "likeCount": "40771",
+                "favoriteCount": "0",
+                "commentCount": "3908"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "q2pV0da3QLSH7LycsdOX_Dz6Wu4",
             "id": "EwjeYVfTOgg",
             "snippet": {
                 "publishedAt": "2023-04-09T09:32:00Z",
@@ -198,83 +448,318 @@
                     "description": "미들급 | 알렉스 페레이라(Alex Pereira) vs 이스라엘 아데산야(Israel Adesanya)"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT17M21S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "allowed": [
+                        "KR"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1817351",
+                "likeCount": "20819",
+                "favoriteCount": "0",
+                "commentCount": "4343"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Y6mI-IUjsH7_HvAkXXI4wZ8D6Eg",
-            "id": "0V3ganZyK50",
+            "etag": "mOXEpP6uprB8v-o6Ccm1aVIWZhI",
+            "id": "_Iu635yeKYc",
             "snippet": {
-                "publishedAt": "2023-04-09T01:01:35Z",
-                "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
-                "title": "손흥민 '아시아 최초' PL 100호골 작렬! \"누구도 SON 쓸 수 없는 궤적\" #SPOTIME",
-                "description": "#손흥민 #100호골 #프리미어리그\n\n손흥민이 8일(한국시간) 프리미어리그 통산 100호골을 기록하는 아시아 최초의 선수가 됐습니다. \n\n프리미어리그 역사상으로는 34번째가 되었고, 개인 통산으로는 142호골을 기록하는 순간이었습니다.\n\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \r\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\r\n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\r\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\r\n페이스북 ☞  https://www.facebook.com/spotvnews\r\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com",
+                "publishedAt": "2023-04-11T10:00:32Z",
+                "channelId": "UCw-kXdzxMdMdLNI0ZlFFbmA",
+                "title": "🤖일본 오타쿠 성지에 출몰한 오타쿠맨과 뼈졸개 | 덕후투어, 아키하바라, 오다이바 건담, 쇼핑, 개노맛먹방 [침착한 여행 in 도쿄 2화]",
+                "description": "안녕하세요 대주주님들 주우재입니다\n침착맨을 위한 하루, 많이 기다리셨죠\n침착한 여행 마지막 편은 넉넉히 뽑았습니다\n\n본 영상은 [나이스고스트클럽] 부분 유료광고가 포함되어 있습니다.\n\n나이스고스트클럽 23SU 바로가기\nhttp://bit.ly/3ZYvfNR\n\n🧦인스타 https://bit.ly/3rrs0hN\n✏️네이버 카페 https://bit.ly/2PCIO7C\n \n\n#주우재 #침착맨 #여행브이로그\nCopyright ⓒ 2023 Studio Episode - All Rights Reserved",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/default.jpg",
+                        "url": "https://i.ytimg.com/vi/_Iu635yeKYc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Iu635yeKYc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Iu635yeKYc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Iu635yeKYc/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_Iu635yeKYc/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "스포타임",
+                "channelTitle": "오늘의 주우재",
                 "tags": [
-                    "SPOTV",
-                    "SPOTVNEWS",
-                    "스포티비",
-                    "스포티비뉴스",
-                    "스포츠타임",
-                    "SPOTVNOW",
-                    "스포티비나우",
-                    "SPOTIME",
-                    "손흥민",
-                    "프리미어리그",
-                    "100호골",
-                    "손백호",
-                    "쏘니",
-                    "SON",
-                    "SONNY",
-                    "아시아 최초",
-                    "토트넘 홋스퍼",
-                    "미토마",
-                    "브라이튼",
-                    "케인",
-                    "활약상",
-                    "골",
-                    "손흥민 골",
-                    "손흥민존"
+                    "주우재",
+                    "브이로그",
+                    "주우재패션",
+                    "남자코디",
+                    "vlog",
+                    "fashion",
+                    "주우재 인스타",
+                    "주우재 옷 정보",
+                    "주우재 신발",
+                    "주우재 옷",
+                    "주우재 패션",
+                    "주우재 코디",
+                    "남친룩 코디",
+                    "남자패션",
+                    "침착맨",
+                    "침착맨 주우재",
+                    "주우재 브이로그",
+                    "침착맨 브이로그",
+                    "침하하",
+                    "침착맨 여행",
+                    "주우재 여행",
+                    "침착맨 주우재 여행",
+                    "일본 도쿄",
+                    "주우재 공항패션",
+                    "도쿄",
+                    "도쿄여행",
+                    "덕후투어",
+                    "개노맛먹방",
+                    "도쿄 먹방",
+                    "아키하바라 브이로그",
+                    "오다이바 여행",
+                    "오다이바 건담",
+                    "일본 유니클로",
+                    "도쿄 쇼핑",
+                    "일본 패션",
+                    "쇼핑 꿀팁",
+                    "규카츠",
+                    "타코야끼",
+                    "침착맨 패션",
+                    "CALMDOWNMAN",
+                    "침형"
                 ],
-                "categoryId": "17",
+                "categoryId": "22",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "손흥민 '아시아 최초' PL 100호골 작렬! \"누구도 SON 쓸 수 없는 궤적\" #SPOTIME",
-                    "description": "#손흥민 #100호골 #프리미어리그\n\n손흥민이 8일(한국시간) 프리미어리그 통산 100호골을 기록하는 아시아 최초의 선수가 됐습니다. \n\n프리미어리그 역사상으로는 34번째가 되었고, 개인 통산으로는 142호골을 기록하는 순간이었습니다.\n\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \r\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\r\n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\r\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\r\n페이스북 ☞  https://www.facebook.com/spotvnews\r\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com"
+                    "title": "🤖일본 오타쿠 성지에 출몰한 오타쿠맨과 뼈졸개 | 덕후투어, 아키하바라, 오다이바 건담, 쇼핑, 개노맛먹방 [침착한 여행 in 도쿄 2화]",
+                    "description": "안녕하세요 대주주님들 주우재입니다\n침착맨을 위한 하루, 많이 기다리셨죠\n침착한 여행 마지막 편은 넉넉히 뽑았습니다\n\n본 영상은 [나이스고스트클럽] 부분 유료광고가 포함되어 있습니다.\n\n나이스고스트클럽 23SU 바로가기\nhttp://bit.ly/3ZYvfNR\n\n🧦인스타 https://bit.ly/3rrs0hN\n✏️네이버 카페 https://bit.ly/2PCIO7C\n \n\n#주우재 #침착맨 #여행브이로그\nCopyright ⓒ 2023 Studio Episode - All Rights Reserved"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT34M18S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "385384",
+                "likeCount": "7194",
+                "favoriteCount": "0",
+                "commentCount": "663"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "y-Tgd9A-Zd4-tPyHg8-sMoHt8Ik",
+            "etag": "gsEdk6jL8jPdq1IQ6hh94DjrTjc",
+            "id": "Kb6Lad_zlTI",
+            "snippet": {
+                "publishedAt": "2023-04-11T10:01:10Z",
+                "channelId": "UCnFFOjljp1_sacTz7PfIIyg",
+                "title": "이중에 배신자는 누구…?🔮ㅣ찐친오리지널",
+                "description": "#레오제이 #찐친브이로그 #푸꾸옥2화\n\n\n💖여행지 정보💖\n\n1) 호텔은 인터컨티넨탈 푸꾸옥이고 부킹닷컴에서 예약했습니다 ㅎㅎ\n\n2) 요가와 수영장은 모두 인터컨티넨탈 푸꾸옥 안에 있는 시설 이용했어요!\n\n3) 해산물 레스토랑은 로컬이었는데, 어디인지 제가 기억이 안나요 흑흑 ㅠㅠ 근데 여기는 피크타임이라는 여행사에 저희 오레오분들이 알려주셔서 다녀왔구요!\n\n4) 호핑투어와 씨워크도 피크타임 여행사에 계신 오레오분들이 너무너무 친절하게 알려주시고 데려다 주셨어요 ㅠㅠ 우리 오레오들도 제 영상보시고 왔다고 하시면 오레오로쒀~~ 잘 챙겨주실거에요!! 헤헤\n\n5) 쿠키영상 속 눈싸움은 랄랄에게 영감을 받았습니다 호호호",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kb6Lad_zlTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kb6Lad_zlTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kb6Lad_zlTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Kb6Lad_zlTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Kb6Lad_zlTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "LeoJ Makeup",
+                "tags": [
+                    "레오제이",
+                    "레오제이 찐친",
+                    "레오제이 브이로그",
+                    "찐친",
+                    "찐친 브이로그",
+                    "레오제이 친구",
+                    "레오제이 메이크업",
+                    "현석",
+                    "주호",
+                    "주호다",
+                    "서기채널",
+                    "퀸주호",
+                    "헤어몬",
+                    "큐영",
+                    "레오제이 친구들",
+                    "브이로그",
+                    "브이로그 추천",
+                    "어썸마운틴",
+                    "지오",
+                    "김지오",
+                    "지오왕자",
+                    "현석공주",
+                    "레오제삼",
+                    "레오제이 숏츠",
+                    "레오제이 베트남",
+                    "베트남 여행",
+                    "베트남 푸꾸옥",
+                    "푸쿠옥",
+                    "푸꾸옥 추천",
+                    "베트남 여행지 추천",
+                    "여행 추천",
+                    "여행브이로그",
+                    "여행지 추천"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "이중에 배신자는 누구…?🔮ㅣ찐친오리지널",
+                    "description": "#레오제이 #찐친브이로그 #푸꾸옥2화\n\n\n💖여행지 정보💖\n\n1) 호텔은 인터컨티넨탈 푸꾸옥이고 부킹닷컴에서 예약했습니다 ㅎㅎ\n\n2) 요가와 수영장은 모두 인터컨티넨탈 푸꾸옥 안에 있는 시설 이용했어요!\n\n3) 해산물 레스토랑은 로컬이었는데, 어디인지 제가 기억이 안나요 흑흑 ㅠㅠ 근데 여기는 피크타임이라는 여행사에 저희 오레오분들이 알려주셔서 다녀왔구요!\n\n4) 호핑투어와 씨워크도 피크타임 여행사에 계신 오레오분들이 너무너무 친절하게 알려주시고 데려다 주셨어요 ㅠㅠ 우리 오레오들도 제 영상보시고 왔다고 하시면 오레오로쒀~~ 잘 챙겨주실거에요!! 헤헤\n\n5) 쿠키영상 속 눈싸움은 랄랄에게 영감을 받았습니다 호호호"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT16M58S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "575449",
+                "likeCount": "13633",
+                "favoriteCount": "0",
+                "commentCount": "742"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "L8Cu-QsHc8BOUU8iDxy37IlqmPc",
+            "id": "FuF6gBiAJkE",
+            "snippet": {
+                "publishedAt": "2023-04-11T13:00:08Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "[슈취타] EP.8 SUGA with 연준 & 태현",
+                "description": "#슈가와취하는타임 #슈취타 #SUGA #슈가 \n#연준 #태현 #투모로우바이투게더 \n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FuF6gBiAJkE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "tags": [
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "알엠",
+                    "RM",
+                    "슈가",
+                    "SUGA",
+                    "제이홉",
+                    "jhope",
+                    "지민",
+                    "정국",
+                    "k-pop",
+                    "방탄",
+                    "j-hope",
+                    "Jung Kook",
+                    "Jimin",
+                    "BTS V",
+                    "Jin",
+                    "슈치타",
+                    "슈취타",
+                    "슈가 알엠",
+                    "슈가 토크쇼"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[슈취타] EP.8 SUGA with 연준 & 태현",
+                    "description": "#슈가와취하는타임 #슈취타 #SUGA #슈가 \n#연준 #태현 #투모로우바이투게더 \n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://channels.vlive.tv/FE619 \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT31M20S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2628793",
+                "likeCount": "380953",
+                "favoriteCount": "0",
+                "commentCount": "14604"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GiRZvB1lLyiCxXAtSE0lfsjQKBs",
             "id": "x2NTxUR3AVM",
             "snippet": {
                 "publishedAt": "2023-04-09T12:36:13Z",
@@ -327,11 +812,26 @@
                     "description": "https://news.kbs.co.kr/news/view.do?ncd=7646771\n\n#통학로 #등하교 #초등학교 #과일가게 #건물주 \n\n[앵커]\n\n 자신의 건물을 뚫어 아이들 통학로를 낸  건물주가 있습니다.\n\n 이 길을 점포로 채워 월세를 받았다면 적잖은 돈을 벌었을 텐데, 아이들의 안전을 위해 선택한 결정이었습니다.\n\n 김규희 기자가 취재했습니다.\n\n [리포트]\n\n 가방을 메고 종종걸음을 놓는 아이들.\n\n 등굣길에 나선 듯 한데, 무슨 일인지 과일가게로 향합니다.\n\n 따라가 봤습니다.\n\n 건물 한가운데가 뻥 뚫려 길이 나 있습니다.\n\n [유다영/초등학생 : \"이쪽으로 이렇게 와요. (이 길 많이 이용하는 이유가 있어요?) 여기가 빨라서요.\"]\n\n 근처 아파트에서 학교를 일직선으로 잇는 중간에 이 통로가 있습니다.\n\n 아이들 등하교 지름길인 셈입니다.\n\n 건물 통로를 거치지 않으면 이면도로로 통학해야 하는데 차들이 자주 다녀 위험합니다.\n\n [강호연/초등학생 학부모 : \"양쪽 길에는 차가 많이 다녀서 위험해서 이쪽 길을 이용하기 시작했어요.\"]\n\n 과일가게를 하는 부부가 11년 전 지은 건물입니다.\n\n 원래 주차장이었고, 길처럼 썼던 곳이라 설계할 때부터 마음이 무거웠다고 말합니다.\n\n 사람 다니는 길을 막아 불편을 주지 않을까 걱정돼서였습니다.\n\n 그리고 고민 끝에, 90㎡ 공간을 비워 아예 길을 내기로 했고, 건물 안에 점포를 더 채워 넣었다면 늘릴 수 있었을 수입도 기꺼이 포기했습니다.\n\n [박주현/과일가게 주인 : \"차가 굉장히 과속으로 다녔어요. 위험하다는 생각을 했죠. 그래서 이 건물을 바로 안 짓고 저희가 이렇게 띄어서 지은 거예요.\"]\n\n 하루에도 수백 명 다니는 길이 성할 리 없습니다.\n\n 깨지고 패인 나무 바닥을 고칠 때마다 적지 않은 돈이 들어가지만  부부는 앞으로도 이 길을 계속 지키겠다고 말합니다.\n\n [김지연/과일가게 주인 : \"이 통로를 지나서 가는 것을 보면 되게 뿌듯하고 마음속으로 그래요. 학교 끝나서 올 때도 좀 더 안전하다 생각하고 마음 놓이는 그런 통로가 되면 좋겠어요.\"]\n\n 떡 자르듯 중간을 갈라 놓은 이상한 건물.\n\n 이 틈새는 돈보다 아이들 안전을 귀히 여기는 어느 어른의 넉넉한 마음씨로 채워졌습니다.\n\n [\"안녕 (안녕하세요!)\"]\n\n KBS 뉴스 김규희입니다.\n\n 촬영기자:신재복"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT2M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2657959",
+                "likeCount": "39965",
+                "favoriteCount": "0",
+                "commentCount": "7359"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "EDhTqCvoMuBv86KwRgg3TPsyuNA",
+            "etag": "fECI5Qkvdf6SpjR078ZmRlV_7Nk",
             "id": "pgUI_IbYETw",
             "snippet": {
                 "publishedAt": "2023-04-09T03:21:36Z",
@@ -429,11 +929,483 @@
                     "description": "가수 임영웅님의 FC서울 경기\n하프타임 공연 영상을 생생하게 즐겨보세요.\n\n#FC서울 #FCSEOUL #임영웅"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": false,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1757290",
+                "likeCount": "41395",
+                "favoriteCount": "0",
+                "commentCount": "5798"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "YTYguhyqCQVolRApoH4ZtC2NYFM",
+            "etag": "E_hL34IG9bht6R0pc2jALwSfWMU",
+            "id": "s0K3ajzYOp0",
+            "snippet": {
+                "publishedAt": "2023-04-11T14:10:50Z",
+                "channelId": "UCSB5FOwUVnAhGo_o99IhxYA",
+                "title": "[더 마블스] 티저 예고편",
+                "description": "'마블'히어로들의 역대급 팀워크!\n11월, 마블의 새로운 우주가 열린다!\n\n[더 마블스] 티저 예고편 공개!\n\n#마블 #더마블스 #11월대개봉\n#브리라슨 #이만벨라니 #테사톰슨 #사무엘L잭슨 #박서준 #니아다코스타 감독",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s0K3ajzYOp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s0K3ajzYOp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s0K3ajzYOp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s0K3ajzYOp0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s0K3ajzYOp0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MarvelKorea",
+                "tags": [
+                    "마블",
+                    "marvel",
+                    "marvelkorea",
+                    "마블 영화",
+                    "마블 예고편",
+                    "예고편",
+                    "trailer",
+                    "마블 ost",
+                    "마블 히어로",
+                    "마블 명장면",
+                    "마블 만화",
+                    "마블총정리",
+                    "아이언맨",
+                    "캡틴아메리카",
+                    "엔드게임",
+                    "닥터스트레인지",
+                    "앤트맨",
+                    "블랙위도우",
+                    "어벤져스",
+                    "marvel studio"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[더 마블스] 티저 예고편",
+                    "description": "'마블'히어로들의 역대급 팀워크!\n11월, 마블의 새로운 우주가 열린다!\n\n[더 마블스] 티저 예고편 공개!\n\n#마블 #더마블스 #11월대개봉\n#브리라슨 #이만벨라니 #테사톰슨 #사무엘L잭슨 #박서준 #니아다코스타 감독"
+                }
+            },
+            "contentDetails": {
+                "duration": "PT2M6S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "282907",
+                "likeCount": "3317",
+                "favoriteCount": "0",
+                "commentCount": "2386"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TnPHn6TBZhubfwVEcTbxgZ8Ruik",
+            "id": "5v58sk3naIg",
+            "snippet": {
+                "publishedAt": "2023-04-11T10:00:07Z",
+                "channelId": "UCYn09ySlShmzBtYwl1OgOsA",
+                "title": "[여동사친] 중고거래로 만난 여신",
+                "description": "배우지원: cheezefilm.m@gmail.com\n※ 상시지원시 간단한 프로필 정보, 사진, 영상을 꼭 보내주세요 ※\n#웹드라마 #여동사친",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5v58sk3naIg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5v58sk3naIg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5v58sk3naIg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5v58sk3naIg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5v58sk3naIg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CheezeFilm",
+                "tags": [
+                    "webdrama",
+                    "drama",
+                    "kdrama",
+                    "highteen",
+                    "school",
+                    "romance",
+                    "movie",
+                    "kmovie",
+                    "kpop",
+                    "드라마",
+                    "영화",
+                    "고등학교",
+                    "고딩",
+                    "절친",
+                    "친구",
+                    "friend",
+                    "マブダチ",
+                    "女子高生",
+                    "ユリ",
+                    "JK",
+                    "남사친",
+                    "여사친",
+                    "남친",
+                    "여친",
+                    "高校生",
+                    "百合",
+                    "Highschool",
+                    "Queer",
+                    "LGBT",
+                    "Teenager",
+                    "사이다",
+                    "참교육"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "[여동사친] 중고거래로 만난 여신",
+                    "description": "배우지원: cheezefilm.m@gmail.com\n※ 상시지원시 간단한 프로필 정보, 사진, 영상을 꼭 보내주세요 ※\n#웹드라마 #여동사친"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M52S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1148252",
+                "likeCount": "15667",
+                "favoriteCount": "0",
+                "commentCount": "1364"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zvTvpote1bOyYleJm8msC7UJ-_w",
+            "id": "eMTwuULN-Ws",
+            "snippet": {
+                "publishedAt": "2023-04-09T09:33:05Z",
+                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+                "title": "JISOO(지수) - FLOWER(꽃) @인기가요 inkigayo 20230409",
+                "description": "JISOO - FLOWER #SBSInkigayo_EP1177\n지수 - 꽃 #JISOO #FLOWER \n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "tags": [
+                    "Inkigayo",
+                    "인기가요직캠",
+                    "안방1열직캠",
+                    "스브스케이팝",
+                    "스브스 직캠",
+                    "인기가요",
+                    "인가",
+                    "음방",
+                    "음악방송",
+                    "지수 솔로",
+                    "지수",
+                    "블랙핑크",
+                    "지수 인기가요",
+                    "지수 꽃",
+                    "꽃",
+                    "FLOWER",
+                    "지수 무대",
+                    "지수 안무",
+                    "꽃 안무",
+                    "Yg",
+                    "지수 솔로 데뷔",
+                    "지수 인가",
+                    "지수 FLOWER"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "JISOO(지수) - FLOWER(꽃) @인기가요 inkigayo 20230409",
+                    "description": "JISOO - FLOWER #SBSInkigayo_EP1177\n지수 - 꽃 #JISOO #FLOWER \n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT3M27S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "blocked": [
+                        "JP",
+                        "KR"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "5607605",
+                "likeCount": "497549",
+                "favoriteCount": "0",
+                "commentCount": "13803"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sJKgz3AhD3u9Ziif4D6h4XXUZDU",
+            "id": "RsCWAtEMt24",
+            "snippet": {
+                "publishedAt": "2023-04-11T11:45:35Z",
+                "channelId": "UCF3UEVPt5zZTlBVJwDG317g",
+                "title": "＂저는 가치가 1도 없는데..＂ 예능이라고 봐주는 거 없는 몬스터즈의 냉정한 💰연봉협상💰｜최강야구｜JTBC 230410 방송",
+                "description": "방출..? 가치 평가서..?\n그 어느 때보다 무서운 재계약 통보의 시간😱\n\n#최강야구 #핫클립 #최강몬스터즈\n\n⚾오직 승리만을 추구하는 사상 최강의 야구팀\n＜최강야구＞\n→ 매주 월요일 밤 10시 30분 JTBC 방송!\n\n\n[JTBC봐야지] 구독하기☞ http://asq.kr/VgFZ3​\n\n------------------------------------------------------\n📌영상 속 프로그램은?\n\n【최강야구】\nhttps://tv.jtbc.co.kr/ckmonsters\n------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RsCWAtEMt24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RsCWAtEMt24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RsCWAtEMt24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RsCWAtEMt24/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RsCWAtEMt24/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "JTBC Voyage",
+                "tags": [
+                    "genre:게임",
+                    "format:하이라이트",
+                    "source:스포츠",
+                    "type:방송",
+                    "series:최강야구",
+                    "topic:야구",
+                    "person:김성근",
+                    "최강몬스터즈",
+                    "야구",
+                    "야구선수",
+                    "야구팀",
+                    "야구예능",
+                    "jtbc예능",
+                    "2023최강야구",
+                    "2023시즌",
+                    "2023시즌최강야구",
+                    "스토브리그",
+                    "유희관연봉협상",
+                    "야구연봉협상",
+                    "최강야구연봉협상",
+                    "유희관에이전트",
+                    "에이전트",
+                    "연봉협상",
+                    "연봉",
+                    "에이전시",
+                    "단장",
+                    "MVP",
+                    "프로야구",
+                    "크보",
+                    "야구쇼츠",
+                    "야구레전드장면"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "＂저는 가치가 1도 없는데..＂ 예능이라고 봐주는 거 없는 몬스터즈의 냉정한 💰연봉협상💰｜최강야구｜JTBC 230410 방송",
+                    "description": "방출..? 가치 평가서..?\n그 어느 때보다 무서운 재계약 통보의 시간😱\n\n#최강야구 #핫클립 #최강몬스터즈\n\n⚾오직 승리만을 추구하는 사상 최강의 야구팀\n＜최강야구＞\n→ 매주 월요일 밤 10시 30분 JTBC 방송!\n\n\n[JTBC봐야지] 구독하기☞ http://asq.kr/VgFZ3​\n\n------------------------------------------------------\n📌영상 속 프로그램은?\n\n【최강야구】\nhttps://tv.jtbc.co.kr/ckmonsters\n------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT21M57S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "245603",
+                "likeCount": "2447",
+                "favoriteCount": "0",
+                "commentCount": "475"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2Up5OOCSlpawz94Vezi4kLwbmg4",
+            "id": "0V3ganZyK50",
+            "snippet": {
+                "publishedAt": "2023-04-09T01:01:35Z",
+                "channelId": "UCnXNukjRxXGD8aeZGRV-lYg",
+                "title": "손흥민 '아시아 최초' PL 100호골 작렬! \"누구도 SON 쓸 수 없는 궤적\" #SPOTIME",
+                "description": "#손흥민 #100호골 #프리미어리그\n\n손흥민이 8일(한국시간) 프리미어리그 통산 100호골을 기록하는 아시아 최초의 선수가 됐습니다. \n\n프리미어리그 역사상으로는 34번째가 되었고, 개인 통산으로는 142호골을 기록하는 순간이었습니다.\n\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \r\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\r\n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\r\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\r\n페이스북 ☞  https://www.facebook.com/spotvnews\r\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0V3ganZyK50/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "스포타임",
+                "tags": [
+                    "SPOTV",
+                    "SPOTVNEWS",
+                    "스포티비",
+                    "스포티비뉴스",
+                    "스포츠타임",
+                    "SPOTVNOW",
+                    "스포티비나우",
+                    "SPOTIME",
+                    "손흥민",
+                    "프리미어리그",
+                    "100호골",
+                    "손백호",
+                    "쏘니",
+                    "SON",
+                    "SONNY",
+                    "아시아 최초",
+                    "토트넘 홋스퍼",
+                    "미토마",
+                    "브라이튼",
+                    "케인",
+                    "활약상",
+                    "골",
+                    "손흥민 골",
+                    "손흥민존"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "손흥민 '아시아 최초' PL 100호골 작렬! \"누구도 SON 쓸 수 없는 궤적\" #SPOTIME",
+                    "description": "#손흥민 #100호골 #프리미어리그\n\n손흥민이 8일(한국시간) 프리미어리그 통산 100호골을 기록하는 아시아 최초의 선수가 됐습니다. \n\n프리미어리그 역사상으로는 34번째가 되었고, 개인 통산으로는 142호골을 기록하는 순간이었습니다.\n\nSPOTVNEWS ☞ http://www.spotvnews.co.kr/ \r\nSPOTV NOW ☞ https://www.spotvnow.co.kr/\r\n네이버 TV ☞ https://tv.naver.com/spotvmaster/clips\r\n카카오 TV ☞ https://tv.kakao.com/channel/1706/video\r\n페이스북 ☞  https://www.facebook.com/spotvnews\r\n내가 원하는 스포츠 상품 구매는? ☞  https://www.spotvmall.com"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "allowed": [
+                        "KR"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2119959",
+                "likeCount": "24497",
+                "favoriteCount": "0",
+                "commentCount": "3411"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GEZzWaNZLnXkVHOJTLchD_H_VZg",
             "id": "IVDPzxYIF2k",
             "snippet": {
                 "publishedAt": "2023-04-08T21:00:08Z",
@@ -501,11 +1473,132 @@
                     "description": "Heung-Min Son scores his 100th Premier League goal and Harry Kane scores as Spurs claim all three points against Brighton.\n\nSPURSPLAY is live! Check it out now ► https://bit.ly/3a9klBi\n\nSUBSCRIBE to ensure you don’t miss a video from the Spurs YouTube channel. Hit the bell to get notifications on our latest uploads! ► Subscribe: https://www.youtube.com/channel/UCEg25rdRZXg32iwai6N6l0w?sub_confirmation=1 \n\nFOLLOW US!\nInstagram: https://www.instagram.com/spursofficial/\nTwitch: https://www.twitch.tv/tottenhamhotspur/\nTikTok: https://www.tiktok.com/@spursofficial\nTwitter: https://twitter.com/SpursOfficial\nFacebook: https://www.facebook.com/TottenhamHotspur/\n\nDownload the Spurs App: https://www.tottenhamhotspur.com/spurs-official-app/\n\n#tottenham #premierleague  #highlights"
                 },
                 "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT2M12S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1220882",
+                "likeCount": "19540",
+                "favoriteCount": "0",
+                "commentCount": "1696"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "rxGbSt99U6wB0oIIrR_4zHabPPU",
+            "etag": "GXPzb6x3Y73N-Fy0U4erg35gV_U",
+            "id": "ccDwhkO79Es",
+            "snippet": {
+                "publishedAt": "2023-04-11T12:00:21Z",
+                "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+                "title": "(Teaser) [BE ORIGINAL] IVE(아이브) 'I AM' (4K)",
+                "description": "[BE ORIGINAL] IVE 'I AM' (Teaser)\n[비 오리지널] 아이브 '아이 엠' (티저)\n\nI HAVE IVE✨ 드디어 왔잖아 아이브😎 \nBE ORIGINAL 'IVE' COMING SOON\n\n#IVE #아이브 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ccDwhkO79Es/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+                "tags": [
+                    "M2",
+                    "엠투",
+                    "스튜디오 춤",
+                    "스춤",
+                    "Studio choom",
+                    "COVERS",
+                    "커버스",
+                    "DANCE THE X",
+                    "댄스 더 엑스",
+                    "댄스",
+                    "DANCE",
+                    "비 오리지널",
+                    "BE ORIGINAL",
+                    "커버",
+                    "COVER",
+                    "Artist Of The Month",
+                    "AOTM",
+                    "Drop the dance",
+                    "드롭더댄스",
+                    "Mix & Max",
+                    "믹스앤맥스",
+                    "믹앤맥",
+                    "ive",
+                    "ive i am",
+                    "아이브",
+                    "아이브 아이 엠",
+                    "아이 엠",
+                    "i am ive",
+                    "IVE",
+                    "장원영",
+                    "안유진",
+                    "가을",
+                    "리즈",
+                    "레이",
+                    "이서",
+                    "원영",
+                    "유진",
+                    "wonyoung",
+                    "yujin",
+                    "gaeul",
+                    "liz",
+                    "rey",
+                    "leeseo"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "(Teaser) [BE ORIGINAL] IVE(아이브) 'I AM' (4K)",
+                    "description": "[BE ORIGINAL] IVE 'I AM' (Teaser)\n[비 오리지널] 아이브 '아이 엠' (티저)\n\nI HAVE IVE✨ 드디어 왔잖아 아이브😎 \nBE ORIGINAL 'IVE' COMING SOON\n\n#IVE #아이브 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM"
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT46S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "1265795",
+                "likeCount": "82897",
+                "favoriteCount": "0",
+                "commentCount": "2261"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ffpg6rZn_5l7I6Jo8VHne9Dv2Iw",
             "id": "ZMYR5s9DoTs",
             "snippet": {
                 "publishedAt": "2023-04-07T10:00:23Z",
@@ -586,201 +1679,195 @@
                     "description": "🔥차린건 쥐뿔도 없지만 열네 번째 축복 대상🔥\n\n봄이 오고 꽃이 피고🌸✨\n쥐뿔 없는 곳에도 인간 꽃이 폈습니다➿🌹\n바로.. 𝑩𝑳𝑨𝑪𝑲𝑷𝑰𝑵𝑲 🖤지수💖\n\n밖에선 시크 도도 블랙핑크지만😎\n여기선 종이 맛 감별사 모먼트를 뽐내는\n엉뚱러블리치츄૮꒰𓏭ɞ̴̶̷ ·̮ ɞ̴̶̷𓏭꒱ა🤍\n\n월클 아이돌이 알려주는 무대 매너부터\n쇼미 우승자도 두 손 두 발 들게 만든,,\n광기 어린 화려한 랩까지 (feat.영지수🤟)🎤\n\n꽃향기와 술 냄새를 남기고 간..🌹\n지츄 보러 오세요🖤💖\n\n\n\n\n[차린 건 쥐뿔도 없지만] \n4월 14일(금) 저녁 7시 EP.15 공개 \n\n\n\n🥂 구독 & 좋아요 & 알림설정 필수 🥂\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n [차린건 쥐뿔도 없지만] 이영지의 1:1 취중진담 프로젝트\n🍹 매주 금요일 오후 7시 업로드\n🍸구독하기 ▷https://www.youtube.com/channel/UChdqwmHLPoL3UJmm9Fw-LsA\n🍺CONTACT ▷ @youngji_gbbul_nocharim \n🥂광고문의   ▷ Boxmedia.ad@gmail.com \n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n#차린건쥐뿔도없지만 #차뿔없 #이영지 #LeeYoungji  @이영지\n#지수 #Jisoo #Blackpink #블랙핑크"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT29M7S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "11133852",
+                "likeCount": "633992",
+                "favoriteCount": "0",
+                "commentCount": "20312"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "Xv3nJkL_dHNbePbl7mHJKkA2vgg",
-            "id": "m4TzpZjabQM",
+            "etag": "sP-MPGmZ3W50E-5GKTfDJjOBCfY",
+            "id": "maDeLItDeMI",
             "snippet": {
-                "publishedAt": "2023-04-08T02:00:09Z",
-                "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
-                "title": "가짜의 삶은 핑계고",
-                "description": "제 주변에 ‘가짜의 삶’을 사는 대표적인 분들이 계세요.\n그분들과 ‘가짜의 삶’에 대해 논해보는 아주 심도깊고 귀한 시간 가져보려 합니다.\n\n사실 다~~ 핑계고🐓\n토크 좋아하는 사람들끼리 또 한사바리 떠들어제껴봤습니다.\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #홍진경 #조세호 #가짜의삶\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+                "publishedAt": "2023-04-10T16:05:44Z",
+                "channelId": "UCFL1sCAksD6_7JIZwwHcwjQ",
+                "title": "[하이라이트] 無반응을 유지하던 '김성근'을 움찔거리게 한 투수, 또 다시 「고용 불안」에 떠는 몬스터즈?! | 최강야구 | JTBC 230410 방송",
+                "description": "[하이라이트] 無반응을 유지하던 '김성근'을 움찔거리게 한 투수, 또 다시 「고용 불안」에 떠는 몬스터즈?!\n#최강야구 #최강몬스터즈 #트라이아웃하이라이트\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/ckmonsters\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/maDeLItDeMI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/maDeLItDeMI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/maDeLItDeMI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/maDeLItDeMI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/maDeLItDeMI/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "뜬뜬 DdeunDdeun",
-                "categoryId": "23",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "가짜의 삶은 핑계고",
-                    "description": "제 주변에 ‘가짜의 삶’을 사는 대표적인 분들이 계세요.\n그분들과 ‘가짜의 삶’에 대해 논해보는 아주 심도깊고 귀한 시간 가져보려 합니다.\n\n사실 다~~ 핑계고🐓\n토크 좋아하는 사람들끼리 또 한사바리 떠들어제껴봤습니다.\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #홍진경 #조세호 #가짜의삶\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "bVR6MhB-eqYKP-WyX8CbN8v1NZM",
-            "id": "eMTwuULN-Ws",
-            "snippet": {
-                "publishedAt": "2023-04-09T09:33:05Z",
-                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
-                "title": "JISOO(지수) - FLOWER(꽃) @인기가요 inkigayo 20230409",
-                "description": "JISOO - FLOWER #SBSInkigayo_EP1177\n지수 - 꽃 #Jimin #JISOO #FLOWER \n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/eMTwuULN-Ws/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "channelTitle": "JTBC Entertainment",
                 "tags": [
-                    "Inkigayo",
-                    "인기가요직캠",
-                    "안방1열직캠",
-                    "스브스케이팝",
-                    "스브스 직캠",
-                    "인기가요",
-                    "인가",
-                    "음방",
-                    "음악방송",
-                    "지수 솔로",
-                    "지수",
-                    "블랙핑크",
-                    "지수 인기가요",
-                    "지수 꽃",
-                    "꽃",
-                    "FLOWER",
-                    "지수 무대",
-                    "지수 안무",
-                    "꽃 안무",
-                    "Yg",
-                    "지수 솔로 데뷔",
-                    "지수 인가",
-                    "지수 FLOWER"
+                    "최강야구",
+                    "김성근",
+                    "이대호",
+                    "박용택",
+                    "유희관",
+                    "정근우",
+                    "송승준",
+                    "이택근",
+                    "장원삼",
+                    "정의윤",
+                    "서동욱",
+                    "정성훈",
+                    "이홍구",
+                    "김문호",
+                    "이대은",
+                    "김선우",
+                    "정용검",
+                    "오세훈",
+                    "오주원",
+                    "최수현",
+                    "최강몬스터즈",
+                    "최강야구트라이아웃하이라이트",
+                    "최강야구트라이아웃",
+                    "최강몬스터즈트라이아웃",
+                    "트라이아웃",
+                    "예능트라이아웃",
+                    "최종라운드",
+                    "투수선발",
+                    "1대1면접",
+                    "최강야구면접",
+                    "한기주",
+                    "정영일",
+                    "신재영",
+                    "임준서",
+                    "임주빈",
+                    "서성일"
                 ],
                 "categoryId": "24",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "ko",
                 "localized": {
-                    "title": "JISOO(지수) - FLOWER(꽃) @인기가요 inkigayo 20230409",
-                    "description": "JISOO - FLOWER #SBSInkigayo_EP1177\n지수 - 꽃 #Jimin #JISOO #FLOWER \n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp"
+                    "title": "[하이라이트] 無반응을 유지하던 '김성근'을 움찔거리게 한 투수, 또 다시 「고용 불안」에 떠는 몬스터즈?! | 최강야구 | JTBC 230410 방송",
+                    "description": "[하이라이트] 無반응을 유지하던 '김성근'을 움찔거리게 한 투수, 또 다시 「고용 불안」에 떠는 몬스터즈?!\n#최강야구 #최강몬스터즈 #트라이아웃하이라이트\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/ckmonsters\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT26M13S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "635346",
+                "likeCount": "4348",
+                "favoriteCount": "0",
+                "commentCount": "994"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "W3av_23UP4L6KE5N75CZZ6DYP1k",
-            "id": "Bnrh5I53YPs",
+            "etag": "ZV8r0TRNj0em7JRL039ioQrsFG8",
+            "id": "xiAgC_52x7U",
             "snippet": {
-                "publishedAt": "2023-04-09T08:02:27Z",
-                "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
-                "title": "[안방1열 풀캠4K] 지수 '꽃' (JISOO 'FLOWER' FullCam)│@SBS Inkigayo 230409",
-                "description": "[안방1열 풀캠4K] 지수 '꽃' (JISOO 'FLOWER' FullCam)│@SBS Inkigayo 230409\n\n#인기가요 #지수 #꽃 #FLOWER\n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
+                "publishedAt": "2023-04-10T09:00:07Z",
+                "channelId": "UCl23-Cci_SMqyGXE1T_LYUg",
+                "title": "[성시경 노래] 50. 뜨거운 안녕 (With.싸이) l Sung Si Kyung Music",
+                "description": "#성시경 #성시경노래 #50 #뜨거운안녕\n#자오늘은 #본업 #가수 #좋아요 \n#싸이 #PSY #월드스타\n\nVocal : 싸이\nVocal, Piano : 성시경\nKeyboard : 안준영\nDrum : 장혁\nGuitar : 정재필\nBass : 장태웅\n\nMix : 박근상",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Bnrh5I53YPs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAgC_52x7U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Bnrh5I53YPs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAgC_52x7U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Bnrh5I53YPs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAgC_52x7U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/Bnrh5I53YPs/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAgC_52x7U/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/Bnrh5I53YPs/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xiAgC_52x7U/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "스브스케이팝 X INKIGAYO",
+                "channelTitle": "성시경 SUNG SI KYUNG",
                 "tags": [
-                    "Inkigayo",
-                    "인기가요직캠",
-                    "안방1열직캠",
-                    "스브스케이팝",
-                    "스브스 직캠",
-                    "인기가요",
-                    "인가",
-                    "음방",
-                    "음악방송",
-                    "지수 솔로",
-                    "지수",
-                    "블랙핑크",
-                    "지수 인기가요",
-                    "지수 꽃",
-                    "꽃",
-                    "FLOWER",
-                    "지수 무대",
-                    "지수 안무",
-                    "꽃 안무",
-                    "Yg",
-                    "지수 솔로 데뷔",
-                    "지수 인가",
-                    "지수 FLOWER"
+                    "성시경",
+                    "성시경유튜브",
+                    "SUNGSIKYUNG",
+                    "SSK",
+                    "ソンシギョン",
+                    "成始璄"
                 ],
-                "categoryId": "24",
+                "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "ko",
                 "localized": {
-                    "title": "[안방1열 풀캠4K] 지수 '꽃' (JISOO 'FLOWER' FullCam)│@SBS Inkigayo 230409",
-                    "description": "[안방1열 풀캠4K] 지수 '꽃' (JISOO 'FLOWER' FullCam)│@SBS Inkigayo 230409\n\n#인기가요 #지수 #꽃 #FLOWER\n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official"
+                    "title": "[성시경 노래] 50. 뜨거운 안녕 (With.싸이) l Sung Si Kyung Music",
+                    "description": "#성시경 #성시경노래 #50 #뜨거운안녕\n#자오늘은 #본업 #가수 #좋아요 \n#싸이 #PSY #월드스타\n\nVocal : 싸이\nVocal, Piano : 성시경\nKeyboard : 안준영\nDrum : 장혁\nGuitar : 정재필\nBass : 장태웅\n\nMix : 박근상"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT6M35S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "440500",
+                "likeCount": "21784",
+                "favoriteCount": "0",
+                "commentCount": "1936"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "C-g_Xq1FU7U0MhBoJennr-xqjBI",
+            "etag": "79dBnlstMnkkq8X7hCNdL3ILDNU",
             "id": "hLtwiTDcXp0",
             "snippet": {
                 "publishedAt": "2023-04-10T10:00:26Z",
@@ -826,955 +1913,406 @@
                     "title": "주말육아",
                     "description": "*이 영상은 팸퍼스 유료 광고를 포함하고 있습니다.\n\n#팸퍼스 #여름기저귀 #에어차차썸머팬티 #기저귀추천\n\n\n\n▼ '2023 NEW 팸퍼스 에어차차 썸머팬티’ 함께해요 ▼\nhttps://brand.naver.com/pamperskr/products/4904383364"
                 }
+            },
+            "contentDetails": {
+                "duration": "PT7M2S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "770638",
+                "likeCount": "13647",
+                "favoriteCount": "0",
+                "commentCount": "525"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "r78QnsvlNZ8zS1FiZFkYrx6Fh20",
-            "id": "DrNtuAgwWgQ",
+            "etag": "xAZgKOoAgesr48XMwuI7jImEq7c",
+            "id": "qAm8ESKe6D0",
             "snippet": {
-                "publishedAt": "2023-04-10T02:00:02Z",
-                "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
-                "title": "NewJeans (뉴진스) 'Zero' Performance Video",
-                "description": "Connect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+                "publishedAt": "2023-04-10T22:53:05Z",
+                "channelId": "UCL01un1rw1MU3wj7-oEELQQ",
+                "title": "오이소박이 아작아작 시원함 !  오이깍두기는 쳐다도안봄",
+                "description": "■재료\n연두색오이 10개    (25~27cm 길이 ) \n각종 소 취향껏 : 부추 (엄지-검지 쥐는 양), 양파 (중) 1개, \n쪽파, 당근채 3숟갈, 땡초 1개  \n\n■오이 절이기\n소금 : 총 60g   (간수뺀 천일염 사용)\n뉴슈가 0.3 숟갈\n물 1컵 \n\n■ 갈갈 양념  \n제주무 200g   or 배 \n밥 3숟갈  + 물 3 \n홍고추 4~5개      \n \n■ 소 양념  \n-- 오이가 간이 잘 베여있고 짭짜름한 상태입니다---\n멸/까 액젓 4\n새우젓 1\n매실액 4~5 \n ....매실액 2 (고추청 홍고추 사용시)\n고춧가루 5 \n간마늘 2\n생강 0.3\n통깨 2\n\n💚오이 양이 많을 시에는 배 & 무 둘다 갈아주면 더 맛나요.\n💚소양념이 혹시 남으면 양파 즉석 겉절이 해서 끼워넣으면 양파김치도 먹게되고 더 맛나요\n\n\n\n★ 원당 = 비정제 설탕 ( 사탕수수 )  \n★ 물엿 1숟갈= 올리고당 0.7 숟갈\n\n계량 : 성인밥수저 (9~10 ml)\nMeasurement  :  Adult Korean Dinner Spoon (1 T = 9~10ml ) \n\n제 요리는 일반설탕을 사용하지않고 원당을 사용합니다. **원당은 많이 안달아요**\n원당은 비정제 사탕수수 100%로  정제가 되지않아 알이 굵고 노란색입니다.\n일반설탕은 묵직하고 텁텁한 단맛이라면 원당은 향긋한 꿀향과 중후한 단맛으로 자연감칠맛을 내주어 요리가 한층 더 맛납니다. 비정제라 각종 미네랄, 식이섬유  함유! 인터넷에 저렴하게 파니 참조~~ 태국산 원당 검색",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/qAm8ESKe6D0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qAm8ESKe6D0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qAm8ESKe6D0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qAm8ESKe6D0/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/DrNtuAgwWgQ/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/qAm8ESKe6D0/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "NewJeans",
+                "channelTitle": "[윤이련]50년 요리비결",
                 "tags": [
-                    "NewJeans",
-                    "뉴진스",
-                    "민지",
-                    "하니",
-                    "다니엘",
-                    "해린",
-                    "혜인",
-                    "뉴진스 민지",
-                    "뉴진스 하니",
-                    "뉴진스 다니엘",
-                    "뉴진스 해린",
-                    "뉴진스 혜인",
-                    "MINJI",
-                    "HANNI",
-                    "HAERIN",
-                    "HYEIN",
-                    "NewJeans MINJI",
-                    "NewJeans HANNI",
-                    "NewJeans HAERIN",
-                    "NewJeans HYEIN",
-                    "DANIELLE",
-                    "NewJeans DANIELLE"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "NewJeans (뉴진스) 'Zero' Performance Video",
-                    "description": "Connect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87\nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL WEVERSE https://weverse.io/newjeansofficial\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "UcFQpkRWv7PsMJ27p2hhhtetBJY",
-            "id": "04dv9SEC66k",
-            "snippet": {
-                "publishedAt": "2023-04-09T14:52:00Z",
-                "channelId": "UCkbJc8jMcTXwhtmN5VMwfXg",
-                "title": "[11-12회 하이라이트] 이상하리만큼 '손주'에게 진심이었던 차화연, 이 모든 게 딸 같은 며느리 '공현지'를 위한 것? | 신성한,이혼 | JTBC 230409 방송",
-                "description": "[11-12회 하이라이트] 이상하리만큼 '손주'에게 진심이었던 마금희(차화연), 이 모든 게 딸 같은 며느리 '신주화(공현지)'를 위한 것?\n#신성한이혼 #신성한이혼하이라이트 #조승우\n\n00:00:00 차화연🤜💥🤛노수산나, 분노의 기싸움 EP.11\n00:01:18 공현지를 향한 차화연의 진심 EP.11\n00:03:33 이혼이'희생'이 아니길 바라는 조승우 EP.12\n00:04:30 차화연, 제대로 이혼 선언! EP.12\n00:06:13 조승우&차화연, 화기애애한 이혼 진행 중💨 EP.12\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/divorceattorneyshin\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/04dv9SEC66k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/04dv9SEC66k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/04dv9SEC66k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/04dv9SEC66k/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/04dv9SEC66k/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "JTBC Drama",
-                "tags": [
-                    "신성한이혼",
-                    "조승우",
-                    "한혜진",
-                    "김성균",
-                    "정문성",
-                    "차화연",
-                    "이호재",
-                    "노수산나",
-                    "신성한이혼하이라이트",
-                    "신성한이혼11회하이라이트",
-                    "신성한이혼12회하이라이트",
-                    "신성한이혼최종회하이라이트",
-                    "신성한이혼11회",
-                    "신성한이혼12회",
-                    "신성한이혼최종회",
-                    "신성한이혼엔딩",
-                    "신성한이혼요약",
-                    "신성한이혼몰아보기",
-                    "신성한이혼다시보기",
-                    "조승우드라마",
-                    "한혜진드라마",
-                    "김성균드라마",
-                    "정문성드라마",
-                    "이혼",
-                    "변호사"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ko",
-                "localized": {
-                    "title": "[11-12회 하이라이트] 이상하리만큼 '손주'에게 진심이었던 차화연, 이 모든 게 딸 같은 며느리 '공현지'를 위한 것? | 신성한,이혼 | JTBC 230409 방송",
-                    "description": "[11-12회 하이라이트] 이상하리만큼 '손주'에게 진심이었던 마금희(차화연), 이 모든 게 딸 같은 며느리 '신주화(공현지)'를 위한 것?\n#신성한이혼 #신성한이혼하이라이트 #조승우\n\n00:00:00 차화연🤜💥🤛노수산나, 분노의 기싸움 EP.11\n00:01:18 공현지를 향한 차화연의 진심 EP.11\n00:03:33 이혼이'희생'이 아니길 바라는 조승우 EP.12\n00:04:30 차화연, 제대로 이혼 선언! EP.12\n00:06:13 조승우&차화연, 화기애애한 이혼 진행 중💨 EP.12\n\n📌 공홈에서 리플레이 : http://tv.jtbc.co.kr/divorceattorneyshin\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "F9RB9zFOq54Hm14y2v5bO5K5Dl8",
-            "id": "P2QkJwjh3HQ",
-            "snippet": {
-                "publishedAt": "2023-04-09T09:00:08Z",
-                "channelId": "UCejtUitnpnf8Be-v5NuDSLw",
-                "title": "Mobile Suit Gundam the Witch from Mercury #13 \"Envoys from the Earth\"(EN,CN,HK,TW,KR,TH,ID,VN sub)",
-                "description": "A.S.122...\nAn era when a multitude of corporations have entered space and built a huge economic system. After transferring to the Asticassia School of Technology from the planet Mercury, Suletta Mercury has experienced a school life filled with encounters and excitement, as both Miorine Rembran's bridegroom and a member of GUNDAM-ARM, Inc.\n\nIt has been two weeks since the incident at Plant Quetta. Suletta passes her days at the school, anticipating her reunion with Miorine. Miorine, meanwhile, has stationed herself at the head office of the Benerit Group, monitoring her father's condition. The two are about to face new hardships and pressing decisions. Each with her own feelings in her heart, the girls will confront the mighty curse the Gundam brings.\n\n▼Official Website\nhttps://en.gundam.info/about-gundam/series-pages/witch/\n\n#GUNDAM #G_Witch",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/P2QkJwjh3HQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/P2QkJwjh3HQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/P2QkJwjh3HQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/P2QkJwjh3HQ/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/P2QkJwjh3HQ/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "GundamInfo",
-                "tags": [
-                    "ガンダム",
-                    "Gundam",
-                    "高達",
-                    "鋼彈",
-                    "敢达",
-                    "건담",
-                    "GUNDAMINFO",
-                    "ガンプラ",
-                    "Gunpla",
-                    "模型",
-                    "鋼普拉",
-                    "钢普拉",
-                    "건프라",
-                    "高达",
-                    "yt:cc=on",
-                    "plastic model",
-                    "witch",
-                    "Witch from Mercury",
-                    "水星的魔女",
-                    "MERCURY",
-                    "AERIAL"
-                ],
-                "categoryId": "1",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Mobile Suit Gundam the Witch from Mercury #13 \"Envoys from the Earth\"(EN,CN,HK,TW,KR,TH,ID,VN sub)",
-                    "description": "A.S.122...\nAn era when a multitude of corporations have entered space and built a huge economic system. After transferring to the Asticassia School of Technology from the planet Mercury, Suletta Mercury has experienced a school life filled with encounters and excitement, as both Miorine Rembran's bridegroom and a member of GUNDAM-ARM, Inc.\n\nIt has been two weeks since the incident at Plant Quetta. Suletta passes her days at the school, anticipating her reunion with Miorine. Miorine, meanwhile, has stationed herself at the head office of the Benerit Group, monitoring her father's condition. The two are about to face new hardships and pressing decisions. Each with her own feelings in her heart, the girls will confront the mighty curse the Gundam brings.\n\n▼Official Website\nhttps://en.gundam.info/about-gundam/series-pages/witch/\n\n#GUNDAM #G_Witch"
-                },
-                "defaultAudioLanguage": "ja"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "grjYI39srfwNCLWM-fhuR3QA4QM",
-            "id": "uKk7xZyWeG4",
-            "snippet": {
-                "publishedAt": "2023-04-08T11:49:30Z",
-                "channelId": "UCR5cyf8hncN_AaQPfmvmlgA",
-                "title": "[4K 직캠] 송가인 - 비나리 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 230408 방송",
-                "description": "[4K 직캠] 송가인 - 비나리\n\n#불후의명곡 #리메이크 #음악예능 #노래대결 #전설 #세대공감 #가요 #추억 #명곡 #ImmortalSongs2 \n\n----------------------------------------------\n        ▶ Homepage : https://program.kbs.co.kr/2tv/enter/satfreedom/pc/index.html\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/channel/UCR5cyf8hncN_AaQPfmvmlgA\n----------------------------------------------",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uKk7xZyWeG4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uKk7xZyWeG4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uKk7xZyWeG4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/uKk7xZyWeG4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/uKk7xZyWeG4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "KBS 레전드 케이팝",
-                "tags": [
-                    "불후의명곡",
-                    "리메이크",
-                    "음악예능",
-                    "노래대결",
-                    "전설",
-                    "세대공감",
-                    "가요",
-                    "추억",
-                    "명곡",
-                    "ImmortalSongs2"
-                ],
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "[4K 직캠] 송가인 - 비나리 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 230408 방송",
-                    "description": "[4K 직캠] 송가인 - 비나리\n\n#불후의명곡 #리메이크 #음악예능 #노래대결 #전설 #세대공감 #가요 #추억 #명곡 #ImmortalSongs2 \n\n----------------------------------------------\n        ▶ Homepage : https://program.kbs.co.kr/2tv/enter/satfreedom/pc/index.html\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/channel/UCR5cyf8hncN_AaQPfmvmlgA\n----------------------------------------------"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "vr-LZbZRBkWPIoVrsfiHCsSCTHY",
-            "id": "eQcSiY-KAZY",
-            "snippet": {
-                "publishedAt": "2023-04-10T09:37:10Z",
-                "channelId": "UC0VR2v4TZeGcOrZHnmwbU_Q",
-                "title": "치차론 & 과카몰레 : 틱톡을 점령한 환상의 맛, 멕시코 수퍼 크리스피 삼겹살! 쉽고 안전한 원팟 레시피 (Chicharrón & Guacamole)",
-                "description": "홀리몰리 과카몰리 차론차론 치차론\n\n[치차론]\n오겹살 1kg당\n소금 1테이블스푼\n통후추 1티스푼\n월계수잎 1장\n마늘 3개\n식용유 약 500ml (냄비의 넓이-높이에 따라 유동적)\n\n[과카몰레]\n양파 1개\n토마토 2개 (씨 빼고)\n아보카도 6개\n라임 1개\n고수 한 주먹 (취향에 맞게 유동적)\n소금 1티스푼\n후추 1/2티스푼\n비빔밥처럼 뭐가 좀 더 많거나 적어도 전혀 문제 없습니다.\n그냥 먹어보면서 더 넣으세요\n\n\n[육식맨 YOOXICMAN 채널 소개]\n고기 없이 못 사는 육식주의자를 위한 본격 육식 요리 채널!!!\n평범한 아파트 가정집에서 평범하지 않은 고기 요리에 도전합니다!\n\n유튜브, 인스타그램 외 소셜 미디어를 운영하지 않으며\n특히 페이스북과 인스타그램의 제 영상은 100% 무단도용(불펌)이니 신고와 제보를 부탁드립니다.\n인스타그램 : https://www.instagram.com/yooxicman/\n비즈니스 메일 : yooxicman@gmail.com\n\n육식맨 채널에 멤버십 가입하시면 라이브 풀버전 등 더 많은 영상을 시청하실 수 있습니다!\nhttps://www.youtube.com/channel/UC0VR2v4TZeGcOrZHnmwbU_Q/join\n\n[육식맨 영상의 4대 목표]\n◇ 참 보기 좋고 먹어 보고 싶은 육식\n◇ 군더더기, 시간 낭비 없이 깔끔한 영상 편집\n◇ 흥미로우면서 진실한 리액션\n◇ 꽤 도움이 되며 부담스럽지 않은 요리 정보\n\n[BGM]\n유튜브 저작권 해결되는 구독형 유료 음원 사이트 Artlist\nhttps://artlist.io/Yooxicman-1309311\n이 URL을 통해 구독하시면 2개월 추가 혜택을 받으실 수 있고, \n저도 2개월 구독 연장 혜택을 받습니다.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eQcSiY-KAZY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eQcSiY-KAZY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eQcSiY-KAZY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/eQcSiY-KAZY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/eQcSiY-KAZY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "육식맨 YOOXICMAN",
-                "tags": [
+                    "황금레피시",
+                    "맛있게 하는법",
+                    "만들기",
+                    "반찬",
                     "요리",
-                    "레시피",
-                    "육식",
-                    "고기",
-                    "육식맨",
-                    "고기요리",
-                    "YOOXICMAN",
-                    "Chicharrón",
-                    "Guacamole",
-                    "치차론",
-                    "과카몰레",
-                    "과카몰리",
-                    "크리스피 삼겹살",
-                    "수퍼 크리스피 삼겹살",
-                    "오겹살",
-                    "틱톡 레시피",
-                    "멕시코 요리",
-                    "틱톡 요리",
-                    "멕시코 레시피",
-                    "삼겹살 튀김",
-                    "삼류탄",
-                    "chicharrones",
-                    "chicharron",
-                    "아보카도",
-                    "삼겹살",
-                    "통삼겹",
-                    "pork belly",
-                    "원팟레시피",
-                    "원팟 레시피",
-                    "one pot recipe"
+                    "알토란",
+                    "백종원",
+                    "김수미"
                 ],
-                "categoryId": "24",
+                "categoryId": "26",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "치차론 & 과카몰레 : 틱톡을 점령한 환상의 맛, 멕시코 수퍼 크리스피 삼겹살! 쉽고 안전한 원팟 레시피 (Chicharrón & Guacamole)",
-                    "description": "홀리몰리 과카몰리 차론차론 치차론\n\n[치차론]\n오겹살 1kg당\n소금 1테이블스푼\n통후추 1티스푼\n월계수잎 1장\n마늘 3개\n식용유 약 500ml (냄비의 넓이-높이에 따라 유동적)\n\n[과카몰레]\n양파 1개\n토마토 2개 (씨 빼고)\n아보카도 6개\n라임 1개\n고수 한 주먹 (취향에 맞게 유동적)\n소금 1티스푼\n후추 1/2티스푼\n비빔밥처럼 뭐가 좀 더 많거나 적어도 전혀 문제 없습니다.\n그냥 먹어보면서 더 넣으세요\n\n\n[육식맨 YOOXICMAN 채널 소개]\n고기 없이 못 사는 육식주의자를 위한 본격 육식 요리 채널!!!\n평범한 아파트 가정집에서 평범하지 않은 고기 요리에 도전합니다!\n\n유튜브, 인스타그램 외 소셜 미디어를 운영하지 않으며\n특히 페이스북과 인스타그램의 제 영상은 100% 무단도용(불펌)이니 신고와 제보를 부탁드립니다.\n인스타그램 : https://www.instagram.com/yooxicman/\n비즈니스 메일 : yooxicman@gmail.com\n\n육식맨 채널에 멤버십 가입하시면 라이브 풀버전 등 더 많은 영상을 시청하실 수 있습니다!\nhttps://www.youtube.com/channel/UC0VR2v4TZeGcOrZHnmwbU_Q/join\n\n[육식맨 영상의 4대 목표]\n◇ 참 보기 좋고 먹어 보고 싶은 육식\n◇ 군더더기, 시간 낭비 없이 깔끔한 영상 편집\n◇ 흥미로우면서 진실한 리액션\n◇ 꽤 도움이 되며 부담스럽지 않은 요리 정보\n\n[BGM]\n유튜브 저작권 해결되는 구독형 유료 음원 사이트 Artlist\nhttps://artlist.io/Yooxicman-1309311\n이 URL을 통해 구독하시면 2개월 추가 혜택을 받으실 수 있고, \n저도 2개월 구독 연장 혜택을 받습니다."
+                    "title": "오이소박이 아작아작 시원함 !  오이깍두기는 쳐다도안봄",
+                    "description": "■재료\n연두색오이 10개    (25~27cm 길이 ) \n각종 소 취향껏 : 부추 (엄지-검지 쥐는 양), 양파 (중) 1개, \n쪽파, 당근채 3숟갈, 땡초 1개  \n\n■오이 절이기\n소금 : 총 60g   (간수뺀 천일염 사용)\n뉴슈가 0.3 숟갈\n물 1컵 \n\n■ 갈갈 양념  \n제주무 200g   or 배 \n밥 3숟갈  + 물 3 \n홍고추 4~5개      \n \n■ 소 양념  \n-- 오이가 간이 잘 베여있고 짭짜름한 상태입니다---\n멸/까 액젓 4\n새우젓 1\n매실액 4~5 \n ....매실액 2 (고추청 홍고추 사용시)\n고춧가루 5 \n간마늘 2\n생강 0.3\n통깨 2\n\n💚오이 양이 많을 시에는 배 & 무 둘다 갈아주면 더 맛나요.\n💚소양념이 혹시 남으면 양파 즉석 겉절이 해서 끼워넣으면 양파김치도 먹게되고 더 맛나요\n\n\n\n★ 원당 = 비정제 설탕 ( 사탕수수 )  \n★ 물엿 1숟갈= 올리고당 0.7 숟갈\n\n계량 : 성인밥수저 (9~10 ml)\nMeasurement  :  Adult Korean Dinner Spoon (1 T = 9~10ml ) \n\n제 요리는 일반설탕을 사용하지않고 원당을 사용합니다. **원당은 많이 안달아요**\n원당은 비정제 사탕수수 100%로  정제가 되지않아 알이 굵고 노란색입니다.\n일반설탕은 묵직하고 텁텁한 단맛이라면 원당은 향긋한 꿀향과 중후한 단맛으로 자연감칠맛을 내주어 요리가 한층 더 맛납니다. 비정제라 각종 미네랄, 식이섬유  함유! 인터넷에 저렴하게 파니 참조~~ 태국산 원당 검색"
                 },
                 "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT5M36S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "140776",
+                "likeCount": "1652",
+                "favoriteCount": "0",
+                "commentCount": "62"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "z9ZlLTkNrxT6gnAHLGZxSx1Dj94",
-            "id": "09y2wScROiw",
+            "etag": "u5pPxrzBYhpB3HifIPJa_pd2T7I",
+            "id": "m4TzpZjabQM",
             "snippet": {
-                "publishedAt": "2023-04-08T14:00:00Z",
-                "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
-                "title": "IVE 아이브 'I AM' Teaser",
-                "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+                "publishedAt": "2023-04-08T02:00:09Z",
+                "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+                "title": "[ENG] 가짜의 삶은 핑계고",
+                "description": "제 주변에 ‘가짜의 삶’을 사는 대표적인 분들이 계세요.\n그분들과 ‘가짜의 삶’에 대해 논해보는 아주 심도깊고 귀한 시간 가져보려 합니다.\n\n사실 다~~ 핑계고🐓\n토크 좋아하는 사람들끼리 또 한사바리 떠들어제껴봤습니다.\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #홍진경 #조세호 #가짜의삶\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/09y2wScROiw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/09y2wScROiw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/09y2wScROiw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/09y2wScROiw/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/09y2wScROiw/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/m4TzpZjabQM/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "starshipTV",
+                "channelTitle": "뜬뜬 DdeunDdeun",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[ENG] 가짜의 삶은 핑계고",
+                    "description": "제 주변에 ‘가짜의 삶’을 사는 대표적인 분들이 계세요.\n그분들과 ‘가짜의 삶’에 대해 논해보는 아주 심도깊고 귀한 시간 가져보려 합니다.\n\n사실 다~~ 핑계고🐓\n토크 좋아하는 사람들끼리 또 한사바리 떠들어제껴봤습니다.\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #홍진경 #조세호 #가짜의삶\n\n*본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
+                },
+                "defaultAudioLanguage": "ko"
+            },
+            "contentDetails": {
+                "duration": "PT48M51S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "true",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "2297221",
+                "likeCount": "35287",
+                "favoriteCount": "0",
+                "commentCount": "2101"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xZtmEB_bmc9XzKgdQBFXOxoTb_s",
+            "id": "m9SMT5ipbxk",
+            "snippet": {
+                "publishedAt": "2023-04-11T10:00:36Z",
+                "channelId": "UCI6B8NkZKqlFWoiC_xE-hzA",
+                "title": "アイドル",
+                "description": "Provided to YouTube by The Orchard Enterprises\n\nアイドル · YOASOBI · Ayase\n\nアイドル\n\n℗ 2023 YOASOBI\n\nReleased on: 2023-04-12\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m9SMT5ipbxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m9SMT5ipbxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m9SMT5ipbxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m9SMT5ipbxk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m9SMT5ipbxk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YOASOBI - Topic",
                 "tags": [
-                    "Kpop",
-                    "girl group",
-                    "1theK",
-                    "Starshiptv",
-                    "starship",
-                    "뮤비",
-                    "티져",
-                    "MV",
-                    "Teaser",
-                    "신곡",
-                    "new",
-                    "song",
-                    "한류",
-                    "idol",
-                    "hallyu",
-                    "ロエン",
-                    "ミュージック",
-                    "ミュージックビデオ",
-                    "アイドル",
-                    "韓流",
-                    "韓国",
-                    "아이돌",
-                    "아이브",
-                    "IVE",
-                    "アイヴ",
-                    "LOGO",
-                    "MOTION",
-                    "로고",
-                    "유진",
-                    "원영",
-                    "가을",
-                    "레이",
-                    "리즈",
-                    "이서",
-                    "YUJIN",
-                    "GAEUL",
-                    "REI",
-                    "WONYOUNG",
-                    "LIZ",
-                    "LEESEO",
-                    "AN YUJIN",
-                    "JANG WONYOUNG",
-                    "ユジン",
-                    "ガウル",
-                    "レイ",
-                    "ウォニョン",
-                    "リズ",
-                    "イソ",
-                    "After LIKE",
-                    "애프터라이크",
-                    "my satisfaction",
-                    "티저",
-                    "teaser",
-                    "Iwillsurvive",
-                    "kitsch",
-                    "키치",
-                    "선공개",
-                    "IT’S OUR TIME",
-                    "KITSCH",
-                    "안유진",
-                    "장원영",
-                    "I AM",
-                    "아이엠"
+                    "YOASOBI",
+                    "Ayase",
+                    "アイドル"
                 ],
                 "categoryId": "10",
                 "liveBroadcastContent": "none",
-                "defaultLanguage": "ko",
                 "localized": {
-                    "title": "IVE 아이브 'I AM' Teaser",
-                    "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE Twitter\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Fancafe: https://cafe.daum.net/IVEstarship\nIVE TikTok: https://www.tiktok.com/@IVE.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "RZwxBfYB1X5kqycnSwFYmXTmfdo",
-            "id": "DYjQNZxAl4M",
-            "snippet": {
-                "publishedAt": "2023-04-08T09:00:07Z",
-                "channelId": "UCHI--ogXohWxjI0MecO-xUA",
-                "title": "✨슈돌 새 가족🎈 놀러와요 정우의 집✨ [슈돌유튜브] KBS 방송",
-                "description": "슈돌 새 가족, 정우를 소개합니다!\n \n👶👧🧒이모  땀촌들🙋 ♀🙋 ♂\n✅구독과 좋아요👍\n✅알림 설정까지🔔꾸~욱 눌러주세요\n\n#강정우 #장신영 #강경준 #thereturnofsuperman #인기급상승동영상 #슈돌레전드 #현실육아 #육아만렙 #육퇴 #자유부인 #육아대디 #슈돌 #육아 #가족\n\n----------------------------------------------\n        ▶ 슈돌 인스타그램 : https://instagram.com/kbs_super_offic...\n        ▶ 슈돌 트위터 : https://twitter.com/kbs_super\n        ▶ 슈돌 유튜브 : https://www.youtube.com/@KBS_BABY\n--------------------------------------------",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DYjQNZxAl4M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DYjQNZxAl4M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DYjQNZxAl4M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/DYjQNZxAl4M/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/DYjQNZxAl4M/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "KBS 슈퍼맨이 돌아왔다",
-                "tags": [
-                    "#thereturnofsuperman",
-                    "슈퍼맨이돌아왔다",
-                    "육아",
-                    "가족",
-                    "먹방",
-                    "예능",
-                    "힐링",
-                    "여행",
-                    "똥별이",
-                    "제이쓴",
-                    "홍현희",
-                    "육아일기",
-                    "옹알이",
-                    "슈돌레전드",
-                    "건나블리",
-                    "이유식",
-                    "뒤집기",
-                    "유아",
-                    "인기급상승동영상",
-                    "똥별",
-                    "육아비법",
-                    "인간극장",
-                    "슈돌",
-                    "애기",
-                    "아기",
-                    "뽀로로",
-                    "육아로그",
-                    "육아 브이로그",
-                    "브이로그",
-                    "금쪽같은 내새끼",
-                    "오은영",
-                    "훈육",
-                    "슈퍼맨이 돌아왔다",
-                    "준범이",
-                    "쌍둥이",
-                    "세쌍둥이",
-                    "아기상어",
-                    "준범",
-                    "연준범",
-                    "똥별이네",
-                    "하영이",
-                    "도하영",
-                    "장윤정",
-                    "도경완",
-                    "도장TV",
-                    "잼잼이",
-                    "건후",
-                    "나은",
-                    "찐건나블리",
-                    "진우",
-                    "은우",
-                    "삼둥이",
-                    "하영이 레전드",
-                    "대한민국만세",
-                    "잼잼 하오",
-                    "하오 잼잼",
-                    "아이클라우드",
-                    "윌벤져스",
-                    "벤틀리",
-                    "나은이",
-                    "신생아",
-                    "아기 뒤집기",
-                    "준호",
-                    "어린이집",
-                    "adorable baby",
-                    "걸음마",
-                    "유치",
-                    "예방 접종",
-                    "물 건너온 아빠들",
-                    "고딩엄빠",
-                    "싱글대디",
-                    "싱글맘",
-                    "슈돌 레전드",
-                    "임신",
-                    "임산부",
-                    "슈퍼맨",
-                    "육아 꿀팁",
-                    "육아 팁",
-                    "엄마",
-                    "아빠",
-                    "리얼 육아",
-                    "육아 초보",
-                    "현실육아",
-                    "육아 명언",
-                    "육아 난이도",
-                    "육아용품",
-                    "독박육아",
-                    "독박 육아",
-                    "육아법",
-                    "강경준",
-                    "장신영",
-                    "강정우",
-                    "정우"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "ko",
-                "localized": {
-                    "title": "✨슈돌 새 가족🎈 놀러와요 정우의 집✨ [슈돌유튜브] KBS 방송",
-                    "description": "슈돌 새 가족, 정우를 소개합니다!\n \n👶👧🧒이모  땀촌들🙋 ♀🙋 ♂\n✅구독과 좋아요👍\n✅알림 설정까지🔔꾸~욱 눌러주세요\n\n#강정우 #장신영 #강경준 #thereturnofsuperman #인기급상승동영상 #슈돌레전드 #현실육아 #육아만렙 #육퇴 #자유부인 #육아대디 #슈돌 #육아 #가족\n\n----------------------------------------------\n        ▶ 슈돌 인스타그램 : https://instagram.com/kbs_super_offic...\n        ▶ 슈돌 트위터 : https://twitter.com/kbs_super\n        ▶ 슈돌 유튜브 : https://www.youtube.com/@KBS_BABY\n--------------------------------------------"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "WJe0VwZgfvFYDD5yZd63WosWaO8",
-            "id": "w9ueRzymcU0",
-            "snippet": {
-                "publishedAt": "2023-04-09T15:00:47Z",
-                "channelId": "UC8whlOg70m2Yr3qSMjUhh0g",
-                "title": "Kep1er 케플러 l 'Giddy' M/V",
-                "description": "'Giddy' Download & Streaming\n🎵Melon : http://kko.to/8Tbl9W549c\n🎵genie : http://genie.co.kr/A00LV3 \n🎵Bugs : https://m.bugs.co.kr/album/4085344\n🎵FLO : https://flomuz.io/s/a.B49Ba\n🎵VIBE : https://vibe.naver.com/track/63368713\n🎵Global : https://ingrv.es/lovestruck-zua-b\n\nKep1er Official \nInstagram : https://www.instagram.com/official.kep1er/\nTwitter : https://twitter.com/official_kep1er\nFacebook : https://www.facebook.com/official.kep1er\nTikTok : https://www.tiktok.com/@official_kep1er/\nMnet Plus : https://www.mnetplus.world/c/kep1er\nFan Cafe : https://cafe.daum.net/kep1er.offcl\n\n#Kep1er #케플러",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/w9ueRzymcU0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/w9ueRzymcU0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/w9ueRzymcU0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/w9ueRzymcU0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/w9ueRzymcU0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Kep1er",
-                "tags": [
-                    "Kep1er",
-                    "케플러",
-                    "kpop",
-                    "걸스플래닛",
-                    "걸스플래닛999",
-                    "girlsplanet",
-                    "girlsplanet999",
-                    "최유진",
-                    "김다연",
-                    "서영은",
-                    "김채현",
-                    "마시로",
-                    "샤오팅",
-                    "히카루",
-                    "휴닝바히에",
-                    "강예서",
-                    "YUJIN",
-                    "XIAOTING",
-                    "MASHIRO",
-                    "CHAEHYUN",
-                    "DAYEON",
-                    "HUENING BAHIYYIH",
-                    "HIKARU",
-                    "YESEO",
-                    "YOUNGEUN",
-                    "DOUBLAST",
-                    "UP",
-                    "up!"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Kep1er 케플러 l 'Giddy' M/V",
-                    "description": "'Giddy' Download & Streaming\n🎵Melon : http://kko.to/8Tbl9W549c\n🎵genie : http://genie.co.kr/A00LV3 \n🎵Bugs : https://m.bugs.co.kr/album/4085344\n🎵FLO : https://flomuz.io/s/a.B49Ba\n🎵VIBE : https://vibe.naver.com/track/63368713\n🎵Global : https://ingrv.es/lovestruck-zua-b\n\nKep1er Official \nInstagram : https://www.instagram.com/official.kep1er/\nTwitter : https://twitter.com/official_kep1er\nFacebook : https://www.facebook.com/official.kep1er\nTikTok : https://www.tiktok.com/@official_kep1er/\nMnet Plus : https://www.mnetplus.world/c/kep1er\nFan Cafe : https://cafe.daum.net/kep1er.offcl\n\n#Kep1er #케플러"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "1-3QrbwGxFcznx-heeRU8vGPmYM",
-            "id": "kSWVYRjMclE",
-            "snippet": {
-                "publishedAt": "2023-04-07T09:00:29Z",
-                "channelId": "UCpdvFXMZkqFLdp1nagLkOhg",
-                "title": "[현미 특집] 행복채널 '현미,김화선,한상진' 가족 | 20010816 KBS방송",
-                "description": "#KBS#옛날티비#현미\n\n행복채널 '현미,김화선,한상진' 가족 | 20010816 KBS방송\n▶진행 : 박미선,강석우\n▶출연 : 현미,김화선,한상진\n\n끼에 살고 끼에 죽는다! 현미·김화선·한상진\n- 끼로 뭉친 현미 가족\n- 노래 장르별 맛있게 부르는 법\n- 현미의 모창 퍼레이드\n- 노사봉·노사연 자매가 말한다 우리엄마·우리이모\n- 혀니! 치어리더 되다\n- 가수 현미의 무대\n\n-------------------------------------------\n삼가고인의 명복을 빕니다 \n-------------------------------------------",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kSWVYRjMclE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kSWVYRjMclE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kSWVYRjMclE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kSWVYRjMclE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kSWVYRjMclE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "옛날티비 : KBS Archive",
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "[현미 특집] 행복채널 '현미,김화선,한상진' 가족 | 20010816 KBS방송",
-                    "description": "#KBS#옛날티비#현미\n\n행복채널 '현미,김화선,한상진' 가족 | 20010816 KBS방송\n▶진행 : 박미선,강석우\n▶출연 : 현미,김화선,한상진\n\n끼에 살고 끼에 죽는다! 현미·김화선·한상진\n- 끼로 뭉친 현미 가족\n- 노래 장르별 맛있게 부르는 법\n- 현미의 모창 퍼레이드\n- 노사봉·노사연 자매가 말한다 우리엄마·우리이모\n- 혀니! 치어리더 되다\n- 가수 현미의 무대\n\n-------------------------------------------\n삼가고인의 명복을 빕니다 \n-------------------------------------------"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "U2aQi59NhFNEe2xXhdp76I2XT5E",
-            "id": "rDiGygkJkXk",
-            "snippet": {
-                "publishedAt": "2023-04-09T13:00:42Z",
-                "channelId": "UCwgtORdDtUKhpjE1VBv6XfA",
-                "title": "Every Time Is Paradise | Our Sweet-Scented Vacance EP.1",
-                "description": "NCT DOJAEJUNG's 1st Mini Album \"Perfume\" will be released on April 17th, 6PM (KST).\n💿 Pre-order https://NCTDOJAEJUNG.lnk.to/Perfume\n\nNCT DOJAEJUNG Official\nhttp://www.youtube.com/nctsmtown\nhttps://www.instagram.com/nct_dojaejung/\nhttp://www.tiktok.com/@official_nct\nhttp://twitter.com/NCTsmtown\nhttp://www.facebook.com/NCT.smtown\n\n#NCT_DOJAEJUNG #DOJAEJUNG #Our_SweetScented_Vacance\n#Our_SS_Vacance #NCT #Perfume\n#DOJAEJUNG_Perfume",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rDiGygkJkXk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rDiGygkJkXk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rDiGygkJkXk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/rDiGygkJkXk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/rDiGygkJkXk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "NCT",
-                "categoryId": "10",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Every Time Is Paradise | Our Sweet-Scented Vacance EP.1",
-                    "description": "NCT DOJAEJUNG's 1st Mini Album \"Perfume\" will be released on April 17th, 6PM (KST).\n💿 Pre-order https://NCTDOJAEJUNG.lnk.to/Perfume\n\nNCT DOJAEJUNG Official\nhttp://www.youtube.com/nctsmtown\nhttps://www.instagram.com/nct_dojaejung/\nhttp://www.tiktok.com/@official_nct\nhttp://twitter.com/NCTsmtown\nhttp://www.facebook.com/NCT.smtown\n\n#NCT_DOJAEJUNG #DOJAEJUNG #Our_SweetScented_Vacance\n#Our_SS_Vacance #NCT #Perfume\n#DOJAEJUNG_Perfume"
-                },
-                "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "4DGQbl8JiJvAgKsprwTwEm62iJI",
-            "id": "iU3vxddng74",
-            "snippet": {
-                "publishedAt": "2023-04-08T04:15:13Z",
-                "channelId": "UCLItMtuFPIZ-Q0m_oOVwB2Q",
-                "title": "민들레꽃을 이렇게 만들었더니 가족들이 건강하고 행복합니다/민들레요리(민들레피클. 민들레장아찌.민들레화전. 민들레차) Dandelion dishes",
-                "description": "민들레꽃 200그램\n설탕 반컵\n청주반컵\n소금 1작은술\n식초 1컵\n\n\n\n200 grams of dandelion flower\nhalf a cup of sugar\nHalf a cup of rice wine\na teaspoon of salt\na cup of vinegar\n\n\n\n#민들레꽃요리#민들레효능#민들레재배#민들레번식#민들레요리#민들레차#민들레전#민들레장아찌#민들레효소",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/iU3vxddng74/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/iU3vxddng74/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/iU3vxddng74/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/iU3vxddng74/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/iU3vxddng74/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "sogyo table 소교식탁TV",
-                "tags": [
-                    "km_민들레피클_1080p_30f_20230408_085441"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "민들레꽃을 이렇게 만들었더니 가족들이 건강하고 행복합니다/민들레요리(민들레피클. 민들레장아찌.민들레화전. 민들레차) Dandelion dishes",
-                    "description": "민들레꽃 200그램\n설탕 반컵\n청주반컵\n소금 1작은술\n식초 1컵\n\n\n\n200 grams of dandelion flower\nhalf a cup of sugar\nHalf a cup of rice wine\na teaspoon of salt\na cup of vinegar\n\n\n\n#민들레꽃요리#민들레효능#민들레재배#민들레번식#민들레요리#민들레차#민들레전#민들레장아찌#민들레효소"
+                    "title": "アイドル",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nアイドル · YOASOBI · Ayase\n\nアイドル\n\n℗ 2023 YOASOBI\n\nReleased on: 2023-04-12\n\nAuto-generated by YouTube."
                 }
+            },
+            "contentDetails": {
+                "duration": "PT3M34S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "regionRestriction": {
+                    "allowed": [
+                        "AE",
+                        "AR",
+                        "AS",
+                        "AT",
+                        "AU",
+                        "AW",
+                        "BA",
+                        "BE",
+                        "BG",
+                        "BH",
+                        "BM",
+                        "BO",
+                        "BR",
+                        "BY",
+                        "CA",
+                        "CH",
+                        "CL",
+                        "CO",
+                        "CR",
+                        "CY",
+                        "CZ",
+                        "DE",
+                        "DK",
+                        "DO",
+                        "DZ",
+                        "EC",
+                        "EE",
+                        "EG",
+                        "ES",
+                        "FI",
+                        "FR",
+                        "GB",
+                        "GF",
+                        "GP",
+                        "GR",
+                        "GT",
+                        "GU",
+                        "HK",
+                        "HN",
+                        "HR",
+                        "HU",
+                        "ID",
+                        "IE",
+                        "IL",
+                        "IN",
+                        "IS",
+                        "IT",
+                        "JO",
+                        "JP",
+                        "KE",
+                        "KR",
+                        "KW",
+                        "KY",
+                        "LB",
+                        "LI",
+                        "LT",
+                        "LU",
+                        "LV",
+                        "MA",
+                        "MK",
+                        "MP",
+                        "MQ",
+                        "MT",
+                        "MX",
+                        "MY",
+                        "NC",
+                        "NG",
+                        "NI",
+                        "NL",
+                        "NO",
+                        "NZ",
+                        "OM",
+                        "PA",
+                        "PE",
+                        "PF",
+                        "PG",
+                        "PH",
+                        "PL",
+                        "PR",
+                        "PT",
+                        "PY",
+                        "QA",
+                        "RO",
+                        "RS",
+                        "SA",
+                        "SE",
+                        "SG",
+                        "SI",
+                        "SK",
+                        "SV",
+                        "TC",
+                        "TH",
+                        "TR",
+                        "TW",
+                        "UA",
+                        "US",
+                        "UY",
+                        "VE",
+                        "VI",
+                        "VN",
+                        "YT",
+                        "ZA"
+                    ]
+                },
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "536834",
+                "likeCount": "48239",
+                "favoriteCount": "0",
+                "commentCount": "1402"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "lzUiI1vfdTdpJtURlc_op84vXDc",
-            "id": "R9NJ8KcurGI",
+            "etag": "ybKxeEomh9eaiNoJecgY81bRMfA",
+            "id": "WdD51zNvnkw",
             "snippet": {
-                "publishedAt": "2023-04-09T09:00:16Z",
-                "channelId": "UClzB2iZ5jPoTNz0S-QU6Wiw",
-                "title": "24시간동안 밖에 살기 VS 안에 살기!! 노숙하면 무조건 불행할까?!",
-                "description": "※ 노랭이 PD : 밖은 어떤 세상일까..?\n※ 강호이 : 이게 리벤지...?\n※ 진렬이 : 노숙은 행복하기 어렵다...\n\n#파뿌리24 #파뿌리 #챌린지 \n\n파뿌리 채널 구독하기 ☞ https://url.kr/IPn4hC\n상경한 세 남자의 유쾌한 매력에 빠져보세요!!\n\n파뿌리24 영상 몰아보기 ☞ https://url.kr/SDQwbZ \n복층라이프 몰아보기 ☞ https://url.kr/w3lLgh\n파뿌리 저가락 몰아보기 ☞ https://url.kr/5IUCuO\n슈퍼푸드보이 몰아보기 ☞ https://url.kr/JEGKBi\n랜덤챌린지 몰아보기 ☞ https://url.kr/iK3q9R\n퀴즈먹방 몰아보기 ☞ https://url.kr/QXLzIP\n뿌이로그 몰아보기  ☞ https://url.kr/M9DVLH\n1분 리뷰 몰아보기 ☞ https://url.kr/nufm3C\n\n[이메일] 콘텐츠요청, 팬 아트, 보내주고픈 말들 : popfree@sandboxnetwork.net\n[팬사서함] 서울시 용산구 서빙고로 17 센트럴파크타워, 30층 샌드박스\n받는 사람명 - 파뿌리",
+                "publishedAt": "2023-04-11T06:06:24Z",
+                "channelId": "UCepUWUpH45hRTi-QePdq1Bg",
+                "title": "[#너목보10/4회 선공개①] 귀하다🥰 너목보10 필수 관문! 김호중의 댄스🕺 실력은?ㅣ내일 [수] 저녁 7시 본방사수",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n[#너목보10/4회 선공개①] 귀하다🥰 너목보10 필수 관문! 김호중의 댄스🕺 실력은?ㅣ내일 [수] 저녁 7시 본방사수\n\n여러분도 김호중과 함께 도전해 볼 텐(10)가?\n#너목포텐챌린지 #포텐댄스\n\n포’텐‘ 터지는 수요일 저녁 7시🤗📺\nLet’s Go 너목포텐 Party!\n\n#너의목소리가보여10 #너목포텐 #엠넷 \n#김종국 #유세윤 #이특\n#ICanSeeYourVoice10 #Mnet\n\n#티빙에서스트리밍",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/R9NJ8KcurGI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WdD51zNvnkw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/R9NJ8KcurGI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WdD51zNvnkw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/R9NJ8KcurGI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WdD51zNvnkw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/R9NJ8KcurGI/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WdD51zNvnkw/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/R9NJ8KcurGI/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WdD51zNvnkw/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "파뿌리",
+                "channelTitle": "Mnet TV",
                 "tags": [
-                    "파뿌리",
-                    "예능",
-                    "게임",
-                    "GAME",
-                    "오락",
-                    "버라이어티",
-                    "variety",
-                    "웹예능",
-                    "플레이"
+                    "ICanSeeYourVoice",
+                    "ICanSeeYourVoice10",
+                    "Mnet",
+                    "Potential",
+                    "김종국",
+                    "너목보",
+                    "너목보10",
+                    "너목포텐",
+                    "너의목소리가보여",
+                    "너의목소리가보여10",
+                    "미스터리싱어",
+                    "실력자",
+                    "엠넷",
+                    "유세윤",
+                    "음치",
+                    "이특",
+                    "티빙에서스트리밍",
+                    "포텐"
                 ],
                 "categoryId": "24",
                 "liveBroadcastContent": "none",
                 "defaultLanguage": "ko",
                 "localized": {
-                    "title": "24시간동안 밖에 살기 VS 안에 살기!! 노숙하면 무조건 불행할까?!",
-                    "description": "※ 노랭이 PD : 밖은 어떤 세상일까..?\n※ 강호이 : 이게 리벤지...?\n※ 진렬이 : 노숙은 행복하기 어렵다...\n\n#파뿌리24 #파뿌리 #챌린지 \n\n파뿌리 채널 구독하기 ☞ https://url.kr/IPn4hC\n상경한 세 남자의 유쾌한 매력에 빠져보세요!!\n\n파뿌리24 영상 몰아보기 ☞ https://url.kr/SDQwbZ \n복층라이프 몰아보기 ☞ https://url.kr/w3lLgh\n파뿌리 저가락 몰아보기 ☞ https://url.kr/5IUCuO\n슈퍼푸드보이 몰아보기 ☞ https://url.kr/JEGKBi\n랜덤챌린지 몰아보기 ☞ https://url.kr/iK3q9R\n퀴즈먹방 몰아보기 ☞ https://url.kr/QXLzIP\n뿌이로그 몰아보기  ☞ https://url.kr/M9DVLH\n1분 리뷰 몰아보기 ☞ https://url.kr/nufm3C\n\n[이메일] 콘텐츠요청, 팬 아트, 보내주고픈 말들 : popfree@sandboxnetwork.net\n[팬사서함] 서울시 용산구 서빙고로 17 센트럴파크타워, 30층 샌드박스\n받는 사람명 - 파뿌리"
+                    "title": "[#너목보10/4회 선공개①] 귀하다🥰 너목보10 필수 관문! 김호중의 댄스🕺 실력은?ㅣ내일 [수] 저녁 7시 본방사수",
+                    "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n[#너목보10/4회 선공개①] 귀하다🥰 너목보10 필수 관문! 김호중의 댄스🕺 실력은?ㅣ내일 [수] 저녁 7시 본방사수\n\n여러분도 김호중과 함께 도전해 볼 텐(10)가?\n#너목포텐챌린지 #포텐댄스\n\n포’텐‘ 터지는 수요일 저녁 7시🤗📺\nLet’s Go 너목포텐 Party!\n\n#너의목소리가보여10 #너목포텐 #엠넷 \n#김종국 #유세윤 #이특\n#ICanSeeYourVoice10 #Mnet\n\n#티빙에서스트리밍"
                 },
                 "defaultAudioLanguage": "ko"
-            }
-        },
-        {
-            "kind": "youtube#video",
-            "etag": "-MjpFSI_I1neadH7fjRhWnkgQS4",
-            "id": "y38zDcwaE34",
-            "snippet": {
-                "publishedAt": "2023-04-09T09:30:17Z",
-                "channelId": "UCM3jwNRfl5-W8VzgT6DsaEQ",
-                "title": "[안방1열 직캠4K] 지수 '꽃' (JISOO 'FLOWER' FanCam) @SBS Inkigayo 230409",
-                "description": "[안방1열 직캠4K] 지수 '꽃' (JISOO 'FLOWER' FanCam) @SBS Inkigayo 230409\n\n#인기가요 #지수 #꽃 #FLOWER\n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/y38zDcwaE34/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/y38zDcwaE34/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/y38zDcwaE34/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/y38zDcwaE34/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/y38zDcwaE34/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "스브스케이팝 ZOOM",
-                "tags": [
-                    "Inkigayo",
-                    "인기가요직캠",
-                    "안방1열직캠",
-                    "스브스케이팝",
-                    "스브스",
-                    "직캠",
-                    "인기가요",
-                    "인가",
-                    "음방",
-                    "음악방송",
-                    "스브스케이팝 줌",
-                    "지수 솔로",
-                    "지수",
-                    "블랙핑크",
-                    "지수 인기가요",
-                    "지수 꽃",
-                    "꽃",
-                    "FLOWER",
-                    "지수 무대",
-                    "지수 안무",
-                    "꽃 안무",
-                    "Yg",
-                    "지수 솔로 데뷔",
-                    "지수 인가",
-                    "지수 FLOWER"
-                ],
-                "categoryId": "22",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "[안방1열 직캠4K] 지수 '꽃' (JISOO 'FLOWER' FanCam) @SBS Inkigayo 230409",
-                    "description": "[안방1열 직캠4K] 지수 '꽃' (JISOO 'FLOWER' FanCam) @SBS Inkigayo 230409\n\n#인기가요 #지수 #꽃 #FLOWER\n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official"
-                }
+            },
+            "contentDetails": {
+                "duration": "PT1M16S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "statistics": {
+                "viewCount": "87196",
+                "likeCount": "4157",
+                "favoriteCount": "0",
+                "commentCount": "485"
             }
         }
     ],
