@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 export default function Home() {
@@ -7,14 +7,18 @@ export default function Home() {
   const onNavigate = (id) => {
     navigate(`/videos/watch/${id}`);
   };
-  fetch(process.env.PUBLIC_URL + "/data/data.json")
-    .then((res) => res.json())
-    .then((data) => setItems(data.items));
+
+  useEffect(() => {
+    fetch(process.env.PUBLIC_URL + "/data/data.json")
+      .then((res) => res.json())
+      .then((data) => setItems(data.items));
+  }, []);
+
   return (
     <div className="grid grid-cols-5 px-[6.25rem] pt-36 gap-8 pb-8">
       {items.map((item) => (
         <div
-        className="mb-3 cursor-pointer"
+          className="mb-3 cursor-pointer"
           key={item.id}
           onClick={() => {
             onNavigate(item.id);
@@ -31,7 +35,9 @@ export default function Home() {
           <p className="mb-3 text-[14px] text-[#606060]">
             {item.snippet.channelTitle}
           </p>
-          <span className=" text-[14px] text-[#606060]">{item.statistics.viewCount}만회</span>
+          <span className=" text-[14px] text-[#606060]">
+            {item.statistics.viewCount}만회
+          </span>
         </div>
       ))}
     </div>
