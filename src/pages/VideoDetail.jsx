@@ -1,5 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
+import {
+  fetchChannel,
+  fetchRelatedVideos,
+  fetchTrendVideos,
+} from "../hooks/queries/youtube";
 
 export default function VideoDetail() {
   const [items, setItems] = useState([]);
@@ -8,28 +14,27 @@ export default function VideoDetail() {
   const [video, setVideo] = useState();
   const { id } = useParams();
 
-  useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/data/data.json")
-      .then((res) => res.json())
-      .then((data) => setItems(data.items));
-  }, []);
+  const queryfetch = useQuery(["videos"], fetchTrendVideos, {
+    onSuccess: (data) => setItems(data.items),
+  });
 
-  useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/data/channel.json")
-      .then((res) => res.json())
-      .then((data) => setChannel(data.items[0]));
-  }, []);
+  const relatedfetch = useQuery(
+    ["relatedVideos", id],
+    () => fetchRelatedVideos(id),
+    {
+      onSuccess: (data) => setRelatedVideos(data.items),
+    }
+  );
 
-  useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/data/related.json")
-      .then((res) => res.json())
-      .then((data) => setRelatedVideos(data.items));
-  }, []);
+  const channelfetch = useQuery(["channel", id], () => fetchChannel(id), {
+    onSuccess: (data) => setChannel(data.items[0]),
+  });
 
   //왜 find()를 생각을 못했지......
   useEffect(() => {
     const selectedVideo = items.find((item) => item.id === id);
     setVideo(selectedVideo);
+    video && console.log(video.snippet.channelId)
   }, [items, id, video]);
 
   return (
@@ -55,7 +60,7 @@ export default function VideoDetail() {
                 alt=""
               />
               <div className="flex flex-col mb-6">
-                <span className="font-medium mb-2">
+                <span className="mb-2 font-medium">
                   {channel.snippet.title}
                 </span>
                 <span className="text-[#606060] text-[14px]">
